@@ -9,3 +9,13 @@ Second is the mansion level. This level just feels like a cheap knockoff of orig
 The two-character mechanic is fun enough and the controls are tight. Overall a decent entry into the series held back by a few annoying aspects.
 
 ![Just look at that gorgeous 2D background](https://user-images.githubusercontent.com/100655853/156235652-92df31d3-7176-4960-9938-8aebb3853c18.png)
+
+ <!-- utterance for comments -->
+<script src="https://utteranc.es/client.js"
+        repo="Sevastromo / sevastromo.github.io"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+<!-- end utterance for comments -->
