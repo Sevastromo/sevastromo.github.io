@@ -1,6 +1,6 @@
 ## 2021 Honorable Mention: Resident Evil 0
 
-![Just look at that gorgeous 2D background](https://user-images.githubusercontent.com/100655853/156235652-92df31d3-7176-4960-9938-8aebb3853c18.png)
+![Just look at that gorgeous 2D background](/images/RE0.png)
 
 Two things hold 0 back from being a great resident evil game. 
 
