@@ -1,5 +1,5 @@
 <p align="center">
-<img src=/images/Goblin_illustration_from_19th_century.jpg width="300" />
+<img src=Sevastromo/sevastromo.github.io/images/Goblin_illustration_from_19th_century.jpg width="300" />
 </p>
 
 At night, after the servants have gone to bed, I turn everything topsy-turvy, put sugar in the salt-cellars, pepper into the beer, and get up to all kinds of pranks.
