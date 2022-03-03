@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Get to know the Goblin
+title: About
 description: PC game reviews and thoughts
 ---
+
+This is a place for a lonely goblin to mess around and develop some coding ability in HTML, Java, CSS, etc. It will also be where the goblin posts poorly written reviews, analyses, and thoughts on PC games and perhaps other media. Please pardon any broken functionality on this website or any broken use of the english langauge, the goblin is neither a coder or writer. The downtrodden goblin is just looking for a creative outlet away from the harsh reality of life in sewers of an aluminum mill.
+
+![](/images/sewers.jpg)
+
+## Get to know the goblin
 
 Best goblin in PC games:
 
@@ -12,7 +18,9 @@ Best goblin in film:
 
 ![](/images/troll.jfif)
 
+
 ---
+
 Favorite Hobbies: Magnets
 
 Favorite Food: Milksteak
@@ -21,33 +29,35 @@ Likes: Ghouls
 
 Dislikes: Knees
 
+
 ---
+
 Favorite PC Games (for real and in no particular order):
 
-*Battle Brothers
+* Battle Brothers
 
-*Escape From Tarkov
+* Escape From Tarkov
 
-*Rimworld
+* Rimworld
 
-*FTL
+* FTL
 
-*Slay the Spire
+* Slay the Spire
 
-*Dark Souls
+* Dark Souls
 
-*Binding of Isaac
+* Binding of Isaac
 
-*Project Zomboid
+* Project Zomboid
 
-*Into the Breach
+* Into the Breach
 
-*The S.T.A.L.K.E.R. Series
+* The S.T.A.L.K.E.R. Series
 
-*Resident Evil Remake
+* Resident Evil Remake
 
-*Resident Evil 2 Remake
+* Resident Evil 2 Remake
 
-*Hitman
+* Hitman
 
 
