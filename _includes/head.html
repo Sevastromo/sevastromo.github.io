@@ -23,10 +23,20 @@
   <!-- end highlight.js support -->
   
   <!-- dark theme using DarkReader -->
-<script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
-<script type="text/javascript">
+  <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
+  <script type="text/javascript">
   DarkReader.setFetchMethod(window.fetch); // Fix to remedy CORS errors in chrome console
   //DarkReader.enable();
   DarkReader.auto( {brightness: 100, contrast: 70, sepia: 10} ); </script>
   <!-- end dark theme using DarkReader -->
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-45R5LED7EQ"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-45R5LED7EQ');
+  </script>
 </head>
