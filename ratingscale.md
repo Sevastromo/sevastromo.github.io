@@ -1,3 +1,9 @@
+---
+layout: page
+title: Rating Scale
+description: My rating scale description
+---
+
 
 | Star Rating  | Description |
 | ------------- | ------------- |
