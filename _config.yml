@@ -38,7 +38,7 @@ titles_from_headings:
   
 header_pages:
   - about.md
-  - rating_scale.md
+  - ratingscale.md
   - archive.md
 
 defaults:
