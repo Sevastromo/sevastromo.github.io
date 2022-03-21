@@ -18,6 +18,9 @@ Best goblin in film:
 
 ![](/images/troll.jfif)
 
+Best goblin in music:
+
+![](/images/goblin.jfif)
 
 ---
 
@@ -44,9 +47,9 @@ Favorite PC Games (for real and in no particular order):
 
 * Slay the Spire
 
-* Dark Souls
+* The Souls series (except 2)
 
-* Binding of Isaac
+* The Binding of Isaac: Rebirth
 
 * Project Zomboid
 
@@ -54,10 +57,14 @@ Favorite PC Games (for real and in no particular order):
 
 * The S.T.A.L.K.E.R. Series
 
-* Resident Evil Remake
-
-* Resident Evil 2 Remake
+* Some of the Resident Evil series (mainly 1, 2, 3)
 
 * Hitman
 
+* The Witcher 3: Wild Hunt
 
+* The Half-Life series
+
+* Alien Isolation
+
+* Elden Ring
