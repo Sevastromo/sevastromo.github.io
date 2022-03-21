@@ -48,7 +48,7 @@ So, you can see the small chain of events that can naturally occur when you step
 ---
 ### Verdict
 
-★★★★
+★★★★1/2
 
 Project Zomboid is the ultimate zombie survival sandbox experience.
 
