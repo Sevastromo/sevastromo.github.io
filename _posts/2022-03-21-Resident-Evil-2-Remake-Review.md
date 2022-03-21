@@ -1,5 +1,4 @@
 ---
-title: Resident Evil 2 Remake
 tags: Reviews
 ---
 
