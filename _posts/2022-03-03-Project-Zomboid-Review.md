@@ -4,7 +4,7 @@ tags: Reviews
 
 ## Game Review: Project Zomboid
 
-![alt text](/images/titlecardPZ.jpg)
+![alt text](/images/titlecardPZ2.jpg)
 
 _Review Notes:_
 * _Build 41 (IWBUMS)_
