@@ -10,7 +10,7 @@ _Review Notes:_
 * _Mods: First-person Camera and RE2 Mod Framework (Credit to the mod author, used free cam for screenshots and dabbled in some first-person gameplay)_
 
 ---
-### Comparing to a Classic
+### Comparisons to a Classic
 
 Resident Evil 2 Remake and Resident Evil Remake are my favorite Resident Evil games. It’s tough to separate the two for me. REmake represents the pinnacle of what the original trilogy was: fixed camera angles, beautifully detailed 2D backgrounds and 3D character models, memorable level design, a mix of true horror and shlocky action, restricted inventory space, puzzle solving, and tough combat with a limited arsenal. RE2R picks up on everything REmake accomplished aside from the fixed camera angles and 2D backgrounds. The fixed camera angles are replaced with a more modern 3rd person view and the world is now rendered fully in 3D without compromising on any detail thanks to modern hardware. So, while I’ll miss the original’s fixed camera angles and 2D backgrounds, the only detail lost is those choice camera angles that either hid information intentionally from the player or were just stunningly beautiful. The image on the left is REmake, an obviously curated camera angle that utilizes the foreground while providing a detailed backdrop with its own sources of light and relfections. On the right I took a stab at creating a "fixed camera angle" with the free cam mod. While it is a amatuer attempt, it does illustrate that thanks to modern hardware we can get 2D background level of detail in a 3D environment.
 
