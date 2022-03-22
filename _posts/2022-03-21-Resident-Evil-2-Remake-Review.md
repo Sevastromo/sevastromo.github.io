@@ -4,7 +4,7 @@ tags: Reviews
 
 ## Game Review: Resident Evil 2 Remake
 
-![alt text](/images/titlecardRE.jpg)
+![alt text](/images/titlecardRE2.jpg)
 
 _Review Notes:_
 * _Mods: First-person Camera and RE2 Mod Framework (Credit to the mod author, used free cam for screenshots and dabbled in some first-person gameplay)_
