@@ -17,7 +17,7 @@ _Review Notes:_
 
 For anyone who’s wondered how they would fair in a zombie apocalypse, this game can answer that question. You start out with a choice of former profession and set of traits to choose from. There’s a lot of variety in the character creation that keeps playthroughs feeling fresh.  For example, you can be an overweight burglar who drives too slowly and needs a cigarette every now and then. All your starting choices have an impact on how your life in the apocalypse will play out. When you spawn in, you will be in one of a few spawn locations dotted across Knox county. This is one of the more impressive aspects of the game. Knox county really feels like a real-world county in scope. This map is huge and designed with a sense of realism. Take the below screenshot for example. The highlighted region is a small cabin that is buried in the thick of the wilderness. Imagine being desperate and coming across this needle in the haystack. This is an aspect of exploration that makes it so daunting yet potentially rewarding. I made the mistake in one of my first playthroughs of escaping a hoard by running into the woods. By other games logic, I was expecting to come across some other points of interest instead I got lost in a dense forest and slowly died of starvation. There was a one in a million chance I came across that cabin, but regardless my decision was not the smart one. This is not to say survival in the woods alone is not an option, it was just not something I or my character was prepared for, therefore that was the end of our apocalypse.
 
-![alt text](/images/PZ_Woods.png)
+![alt text](/images/PZ_Woods.png) 
 
 ---
 
