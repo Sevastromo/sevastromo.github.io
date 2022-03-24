@@ -37,7 +37,7 @@ The most praise I can give is shown below. Disclaimer, I am not a speedrunner bu
 ---
 ### Verdict
 
-“You Want S.T.A.R.S.? I’ll Give You S.T.A.R.S.! ... 4 1/2 of them” - Jill Valentine
+_“You Want S.T.A.R.S.? I’ll Give You S.T.A.R.S.! ... 4 1/2 of them”_ - Jill Valentine
 
 ★★★★1/2
 
