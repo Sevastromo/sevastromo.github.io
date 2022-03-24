@@ -1,5 +1,5 @@
 ---
-tags: Review
+tags: Reviews
 ---
 
 ## Game Review: S.T.A.L.K.E.R. Call of Pripyat
