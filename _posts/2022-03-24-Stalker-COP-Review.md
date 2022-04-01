@@ -12,7 +12,7 @@ _Review Notes:_
 
 ---
 
-### Singleplayer Escape From Tarkov???
+### Some Historical Context
 
 I played Shadow of Chernobyl several years ago. At the time, I had fallen in love with Stalker. I hadn’t played anything like it, it felt dated but fresh. For me, the exploration and atmosphere stuck in my mind the most. The zone had a character of its own, the sounds of dogs in the distance, wind rustling through the trees, and gunshots ringing out across the wasteland are truly iconic. Combined with the unique visual style of humans and mutants with their goofy proportions and boxy animations, the goal of these games is not entirely realism but immersion. After playing SOC, I was unable to get into Clear Sky or Call of Pripyat. I had some fun with several mods out at the time most notably Call of Chernobyl, a sandbox overhaul that combined all three installments. But I was unable to recapture that true draw I felt to my first playthrough of SOC.
 
