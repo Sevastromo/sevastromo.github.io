@@ -32,6 +32,8 @@ The story for the player character in Darkwood is pretty straight forward, find 
 
 ![alt text](/images/DarkJourn.jpg)
 
+Quick aside: This journal is exactly what I want in Elden Ring. It might be sacrilege to suggest such a thing, but I think it fits From Software's design principles. I love the loose handholding of Elden Ring and the Dark Souls series and this does not deviate far from that. The journal would just be a place for the player character to collect scattered thoughts. Not everything would necessarily be a "quest", they would just scribble down what the they saw/heard and let the player reflect them later allowing them to decide if and when to pursue it further.
+
 ---
 ### Verdict
 
