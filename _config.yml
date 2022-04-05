@@ -14,13 +14,14 @@ github_username: "sevastromo"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+#rss: rss
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
 
-rss: rss
+
 
 kramdown:
   syntax_highlighter_opts:
