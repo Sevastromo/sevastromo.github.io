@@ -15,7 +15,7 @@ As a disclaimer, I think I am more interested in talking about games I like, det
 | ★★★★ | Really good, standouts amongst the rest |
 | ★★★1/2 | I liked it, a solid game  |
 | ★★★ | Okay, although I might of thought about not finishing the game once or twice |
-| ★★1/2 | neutral :shrug:  |
+| ★★1/2 | neutral |
 | ★★ | ehh, either a bland slog or had lows that outweighed any highs |
 | ★1/2 | why |
 | ★ | big waste of time |
