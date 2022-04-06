@@ -16,11 +16,11 @@ Best goblin in PC games:
 
 Best goblin in film:
 
-![](/images/troll.jfif)
+![](/images/troll.jpg)
 
 Best goblin in music:
 
-![](/images/goblin.jfif)
+![](/images/goblin.jpg)
 
 ---
 
