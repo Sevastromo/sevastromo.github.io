@@ -35,7 +35,7 @@ Dislikes: Knees
 
 ---
 
-Favorite PC Games (for real and in no particular order):
+Favorite PC Games:
 
 * Battle Brothers
 
