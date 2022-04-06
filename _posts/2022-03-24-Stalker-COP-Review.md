@@ -4,7 +4,7 @@ tags: Reviews
 
 ## Game Review: S.T.A.L.K.E.R. Call of Pripyat
 
-![alt text](/images/COPzat.jpg)
+![alt text](/images/titlecardCOP2.jpg)
 
 _Review Notes:_
 
