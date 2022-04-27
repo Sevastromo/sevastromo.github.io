@@ -18,17 +18,40 @@ What if I told you that a game without much in the way of animations, where char
 
 ---
 
-### Header
+### Beasts and Exploration
 
 
-![alt text](/images/.jpg)
+<p align="center">
+  <img 
+    width="750"
+    height="422"
+    src=/images/BBbeasts.jpg
+  >
+</p>
 
 ---
-### Header
+### Warriors of the North
+
+<p align="center">
+  <img 
+    width="750"
+    height="422"
+    src=/images/BBnorth.jpg
+  >
+</p>
+
+---
+
+### Blazing Deserts
 
 
-
-![alt text](/images/.jpg)
+<p align="center">
+  <img 
+    width="750"
+    height="422"
+    src=/images/BBblaze.jpg
+  >
+</p>
 
 ---
 ### Verdict
