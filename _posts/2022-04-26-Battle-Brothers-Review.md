@@ -36,7 +36,34 @@ Understanding a brother’s attributes is key to developing and outfitting them.
 
 This leads into one of Battle Brothers’ strong suits, brother development. When a brother’s services are purchased, the player receives neither a blank slate nor a defined party member (i.e. a tank or damage-dealer), rather a brother that can be molded to fit some natural predispositions and/or what the company needs. The aforementioned leveling system and base attributes support this but the icing on the cake is Battle Brothers’ perk system. Perks in Battle Brothers are one of the best implementations of character progression I’ve seen in video games, it’s diverse and flexible, no pick feels bad or wasteful, and the upgrade to the brother is almost always tangible immediately. Perks are unlocked in tiers alongside level-ups, giving access to 4-7 perks with each increment. With 7 tiers the player will eventually have the opportunity to pick a total of 10 perks from the 7 tiers. The perk progression from low to high tiers does not necessary reflect on their power level but more so the practicality at that stage of the build/game. Low level perks are more flexible in their purpose and usefulness, while high level perks have more specific, strong effects that may not be applicable early in a build. Perk selection reminds me a lot of card selection in Slay the Spire. Nearly every card choice a player sees is an upgrade to Slay the Spire’s base decks, however knowing which cards to pick based on future enemies, what floor you’re on, what relics you have, and what the rest of your deck is composed of is key to surviving in the Spire. Context matters, and that holds true in Battle Brothers. Perk choices feel impactful because each brother is an important cog in the mercenary company and that perk is part of the puzzle that decides what your brother is going to be long term. The player has to counterbalance the immediate needs of the company versus long-term company composition versus what’s best for the brother. All these considerations make brother progression a fun, strategic mechanic that never grows stale because no two brothers or companies are ever alike.
 
-![alt text](/images/BBcomp1.2.jpg)
+<p align="center">
+  <img 
+    width="538"
+    height="400"
+    src=/images/BBsellsword.jpg
+  >
+</p>
+
+*<div align="center"> Sellsword - The Adaptable Axeman </div>*
+
+* Wields 2 two-handed axes, one short range high damage, one long axe for reach
+* Relies on pathfinder and quick hands for versatility in movement and actions
+* 641 kills in 285 battles makes this sellsword one of the deadliest and prolific brothers I’ve built
+
+
+<p align="center">
+  <img 
+    width="538"
+    height="400"
+    src=/images/BBfarmhand.jpg
+  >
+</p>
+
+*<div align="center"> Farmhand – Famed Cleaver Whipman </div>*
+
+* Wields a famed orc cleaver for high damage and a whip for reach and disarms
+* Relies on iron lungs and recover to swing a lot without gassing out
+* 276 kills in 179 battles shows this is an excellent brother just with a lower kill count due to disarm usage, some injury issues, and a slower start
 
 ---
 
@@ -46,7 +73,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 ---
 
-### Beasts and Exploration
+#### Beasts and Exploration
 
 <p align="center">
   <img 
@@ -58,7 +85,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 ---
 
-### Warriors of the North
+#### Warriors of the North
 
 <p align="center">
   <img 
@@ -70,7 +97,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 ---
 
-### Blazing Deserts
+#### Blazing Deserts
 
 <p align="center">
   <img 
