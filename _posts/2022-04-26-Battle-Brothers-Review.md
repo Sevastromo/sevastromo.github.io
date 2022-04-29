@@ -44,13 +44,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 #### Beasts and Exploration
 
-<p align="center">
-  <img 
-    width="750"
-    height="422"
-    src=/images/BBbeasts.jpg
-  >
-</p>
+![alt text](/images/BBbeasts.jfif)
 
 ---
 
@@ -62,13 +56,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 #### Blazing Deserts
 
-<p align="center">
-  <img 
-    width="750"
-    height="422"
-    src=/images/BBblaze.jpg
-  >
-</p>
+![alt text](/images/BBdesert.jfif)
 
 ---
 ### Verdict
