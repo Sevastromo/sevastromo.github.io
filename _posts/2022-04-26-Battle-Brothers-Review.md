@@ -56,13 +56,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 #### Warriors of the North
 
-<p align="center">
-  <img 
-    width="750"
-    height="422"
-    src=/images/BBnorth.jpg
-  >
-</p>
+![alt text](/images/BBwotn2.jpg)
 
 ---
 
