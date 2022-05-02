@@ -11,9 +11,6 @@ _Review Notes:_
 * _Mods:  Pause without conflicts, Settlement Situation Tooltips, Numbers, Camera elevation bindings (all QOL)_
 
 ---
-<iframe width="644" height="387" src="https://www.youtube.com/embed/4EU7vvSvV-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://open.spotify.com/embed?uri=spotify%3Atrack%3A1NcD2mXJWiw6acahg5Mug9" width="300" height="380" frameborder="0" style="border-radius: 12px;"allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Foreword
 
