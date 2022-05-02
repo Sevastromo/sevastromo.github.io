@@ -12,8 +12,10 @@ _Review Notes:_
 
 ---
 
-
-{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+<p align="center">
+<iframe width="644" height="387" src="https://www.youtube.com/embed/4EU7vvSvV-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+ 
 
 ### Foreword
 
