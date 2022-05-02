@@ -1,5 +1,6 @@
 ---
 tags: Reviews
+spotifytrack: spotify/track/1NcD2mXJWiw6acahg5Mug9
 ---
 
 ## Game Review: Battle Brothers
@@ -11,6 +12,8 @@ _Review Notes:_
 * _Mods:  Pause without conflicts, Settlement Situation Tooltips, Numbers, Camera elevation bindings (all QOL)_
 
 ---
+
+{% include spotifyplaylist.html id=page.spotifytrack %}
 
 ### Foreword
 
