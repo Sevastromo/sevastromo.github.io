@@ -28,13 +28,15 @@ Battle Brothers gameplay has two distinct layers, a strategic world map and a ta
 
 Feature highlights (in my opinion):
 
-*Beautifully detailed artwork that conveys pertinent gameplay information.
-*A diverse set of weapons and armor to buy and loot. What gear you equip matters, hammers puncture armor while cleavers cause deep wounds.
-*A gripping, turn-based combat system that rewards forethought, patience, and experience.
-*Developing a brother is always unique. Each brother has their own background and traits which lead into a classless perk and attribute system.
-*A wide range of challenging enemies to test your company’s strength and flexibility against. Defeating legendary locations and overcoming crises’ make for dynamic, end game goals.
+* Beautifully detailed artwork that conveys pertinent gameplay information.
+* A diverse set of weapons and armor to buy and loot. What gear you equip matters, hammers puncture armor while cleavers cause deep wounds.
+* A gripping, turn-based combat system that rewards forethought, patience, and experience.
+* Developing a brother is always unique. Each brother has their own background and traits which lead into a classless perk and attribute system.
+* A wide range of challenging enemies to test your company’s strength and flexibility against. Defeating legendary locations and overcoming crises’ make for dynamic, end game goals.
 
 If you want a more thematic and fun introduction to Battle Brothers check out the trailer below.
+
+{% include youtubePlayer.html id="C5_eSS-NTeU" %}
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/C5_eSS-NTeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
