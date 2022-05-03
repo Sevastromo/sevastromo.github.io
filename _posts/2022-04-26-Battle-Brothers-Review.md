@@ -12,9 +12,7 @@ _Review Notes:_
 
 ---
 
-{% raw %}
 {% include spotifySong.html id="7vzH3kKjXNSYx1IzGvfMeO" %}
-{% endraw %}
 
 ### Foreword
 
