@@ -38,8 +38,6 @@ If you want a more thematic and fun introduction to Battle Brothers check out th
 
 {% include youtubePlayer.html id="C5_eSS-NTeU" %}
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/C5_eSS-NTeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 ### Building a Brother
