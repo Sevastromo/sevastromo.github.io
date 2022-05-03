@@ -53,8 +53,6 @@ hr {
   height: 80px;
   position: relative;
   max-width: 100%;
-  padding-bottom: 5%;
-  margin: auto;
 }
 
 .embed-spotify-song iframe, .embed-spotify object, .embed-spotify embed {
