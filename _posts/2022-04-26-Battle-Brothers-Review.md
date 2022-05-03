@@ -20,6 +20,26 @@ What if I told you that a game without much in the way of animations, where char
 
 ---
 
+### What is Battle Brothers?
+
+Battle Brothers is a turn based tactical RPG set in a medieval, dark-fantasy world. You are a mercenary company’s captain tasked with hiring and outfitting mercenaries, deciding where you explore, who you fight, and establishing the company’s goals.
+
+Battle Brothers gameplay has two distinct layers, a strategic world map and a tactical battle map. On the world map the captain manages the company, taking contracts, exploring the wilderness, and overseeing the development of your mercenaries. The game switches to the tactical map when a battle commences. On the tactical map, turn-based combat takes place where the captain has control of the mercenary company’s every move. 
+
+Feature highlights (in my opinion):
+
+*Beautifully detailed artwork that conveys pertinent gameplay information.
+*A diverse set of weapons and armor to buy and loot. What gear you equip matters, hammers puncture armor while cleavers cause deep wounds.
+*A gripping, turn-based combat system that rewards forethought, patience, and experience.
+*Developing a brother is always unique. Each brother has their own background and traits which lead into a classless perk and attribute system.
+*A wide range of challenging enemies to test your company’s strength and flexibility against. Defeating legendary locations and overcoming crises’ make for dynamic, end game goals.
+
+If you want a more thematic and fun introduction to Battle Brothers check out the trailer below.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/C5_eSS-NTeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ### Building a Brother
 
 ![alt text](/images/BBbuild.jpg)
