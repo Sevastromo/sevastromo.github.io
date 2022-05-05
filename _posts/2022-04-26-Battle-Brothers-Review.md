@@ -62,6 +62,13 @@ The brothers’ specific traits are where they begin to diverge and become more 
 
 The farmhand has the iron lungs perk giving him extra stamina recovery per turn. Considering this, I outfitted him with the highest damage multi-swing weapon, a famed orc cleaver. Typically weapons that you can swing multiple times per turn become problematic as the battle wears on, brothers can only a swing so many times before running out of stamina. The iron lungs plus the farmhand’s high base fatigue means he can go longer in battle before running of stamina. For flexibility and reach, the farmhand also has a whip. This provides very good utility as the farmhand can disarm dangerous opponents from a distance or stack bleeds, a damage over time status effect. This farmhand started with the company latter and endured some injury issues, yet 276 kills in 179 battles shows this brother is very effective with the lower kill rate partially being attributed to whip disarm usage.
 
+---
+
+### Building a Mercenary Company
+
+![alt text](/images/BBcompany.jfif)
+
+In Battle Brothers not all mercenary companies are created equal. You’ll quickly begin to realize that the origin of the campaign you select has significant implications on the base level and overall potential of that company. The first option you are presented with when starting a new campaign is the company’s origin. Origins range anywhere from being a group of caravanners to being a lone hedge knight. These origins provide substantial gameplay impact particularly early in the campaign. Each origin comes with a unique set of starting brothers, equipment, resources, and most importantly special rules. These special rules typically come in the form of campaign-long buffs and/or debuffs. For example, if you were to select the _Northern Raiders_ origin you would start with three battle-hardened barbarians that are experienced pillagers and would therefore have a higher chance of finding items after battle; however, they would also have poor relations with most of the noble factions. Overall, the origin mechanic provides fun and interesting variability between campaigns making each company feel distinct both mechanically and thematically.
 
 ---
 
