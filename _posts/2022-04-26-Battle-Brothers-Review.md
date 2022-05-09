@@ -70,6 +70,18 @@ In Battle Brothers not all mercenary companies are created equal. You’ll quick
 
 ---
 
+### A Gorgeously Detailed Open World Map
+
+![alt text](/images/BBmapslice.jpg)
+
+![alt text](/images/BBworld.jpg)
+
+![alt text](/images/BBlocal.jpg)
+
+![alt text](/images/BBtown.jpg)
+
+---
+
 ### The Expansions
 
 With each Battle Brothers expansion, the developers have taken the opportunity to add significant variety to the base content present in the game. Everything from weapons and armor to contracts and events has been added to with each update. Added variety in these areas gives the player more options when building brothers and gives the company a wider range of things to do. This makes each campaign unique, giving Battle Brothers serious replay value. With that being said, in the following sections I will focus primarily on the unique features added by the particular expansions.
