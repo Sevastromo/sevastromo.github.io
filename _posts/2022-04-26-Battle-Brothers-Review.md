@@ -108,7 +108,7 @@ The Warriors of the North expansion features two fantastic additions to the core
 The other notable addition is the new faction, northern barbarians. On the strategic world map barbarians are not too dissimilar from the standard brigands. Barbarians roam the northern tundra and snow-covered mountain ranges raiding and pillaging and have encampments out in the wilderness. In battle the barbarian’s standout and these skirmishes have become my favorite in the game. Through the ranks, barbarians wield a variety of crude weapons everything from a moose antler to a spiked skull mace. These weapons test the robustness of your brothers with their high armor ignore stats, meaning a fully armored brother is still at risk of receiving a crippling injury from an armor piercing blow. Standing and trading blows with barbarians is not a recommended tactic for this reason. Barbarian armor sports pelts and horns on top of rusty chain mail and bulky metal plates giving them a weighty, ritualistic aesthetic. Lastly, the snowy battlegrounds combined with the new soundtracks give skirmishes with barbarians an epic atmosphere. The guttural groans paced by the battle-trance inducing war drums highlight that you are in a foreign land, unwelcoming to unprepared outsiders. Check out a sample below.
 
 {% include spotifySong.html id="57jALGMiFnLbAyACdvj5KP" %}
-
+<br/>
 Warriors of the North is a worthy addition to the Battle Brothers base game. The added variety in campaign starts and enemy factions contributes to an already expansive world and set of gameplay options.
 
 ---
