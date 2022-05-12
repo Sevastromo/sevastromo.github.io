@@ -2,7 +2,7 @@
 tags: Reviews
 ---
 
-## Game Review: Battle Brothers
+## Game Review: Battle Brothers (In Progress)
 
 ![alt text](/images/BBtitlecard.jpg)
 
