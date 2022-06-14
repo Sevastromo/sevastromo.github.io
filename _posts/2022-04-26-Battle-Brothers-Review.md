@@ -18,7 +18,23 @@ What if I told you that a game without much in the way of animations, where char
 
 ---
 
-### What is Battle Brothers?
+### Table of Contents
+
+- [Foreword](#foreword)
+- [What is Battle Brothers](#what-is-battle-brothers)
+- [Building a Brother](#building-a-brother)
+- [Building a Mercenary Company](#building-a-mercenary-company)
+- [The Battlefield](#the-battlefield)
+- [A Gorgeously Detailed Open World Map](#a-gorgeously-detailed-open-world-map)
+- [The Expansions](#the-expansions)
+  * [Beasts and Exploration](#beasts-and-exploration)
+  * [Warriors of the North](#warriors-of-the-north)
+  * [Blazing Deserts](#blazing-deserts)
+- [Verdict](#verdict)
+
+---
+
+### What is Battle Brothers
 
 Battle Brothers is a turn based tactical RPG set in a medieval, dark-fantasy world. You are a mercenary company’s captain tasked with hiring and outfitting mercenaries, deciding where you explore, who you fight, and establishing the company’s goals.
 
