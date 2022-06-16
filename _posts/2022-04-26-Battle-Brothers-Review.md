@@ -20,12 +20,10 @@ What if I told you that a game without much in the way of animations, where char
 
 ### Table of Contents
 
-- [Foreword](#foreword)
 - [What is Battle Brothers](#what-is-battle-brothers)
-- [Building a Brother](#building-a-brother)
 - [Building a Mercenary Company](#building-a-mercenary-company)
-- [The Battlefield](#the-battlefield)
-- [A Gorgeously Detailed Open World Map](#a-gorgeously-detailed-open-world-map)
+  * [Building a Brother](#building-a-brother)
+  * [Company Composition](#company-composition)
 - [The Expansions](#the-expansions)
   * [Beasts and Exploration](#beasts-and-exploration)
   * [Warriors of the North](#warriors-of-the-north)
@@ -54,7 +52,19 @@ If you want a more thematic and fun introduction to Battle Brothers check out th
 
 ---
 
-### Building a Brother
+### Building a Mercenary Company
+
+![alt text](/images/BBcompany.jfif)
+
+At the center of Battle Brothers is your mercenary company. The game revolves around your management of the company both in and out of battle. The game puts the player firmly in the boots of the company’s captain and the company’s future prospects entirely lie on your shoulders. When starting a new campaign, the player is asked to choose the company’s origin. This selection gives the opportunity to contextualize the company within the low-fantasy landscape Battle Brothers puts forth. Origins range anywhere from being a group of caravanners to a lone hedge knight. Each origin represents a different way of life that already exists in the world, whether low-born peasants or trained soldiers’ origin choices feel grounded. You are not starting out as a predetermined hero or destined for greatness, you are a greasy cog in a world the churns with or without your existence. It is only through you, the captain’s decision-making and the hard work/survival of your brothers that you’ll ever achieve anything of note.
+
+Aside from thematic context, these origins provide substantial gameplay impact particularly early in the campaign. Each origin comes with a unique set of starting brothers, equipment, resources, and most importantly special rules. These special rules typically come in the form of campaign-long buffs and/or debuffs. For example, if you were to select the _Northern Raiders_ origin you would start with three battle-hardened barbarians that are experienced pillagers and would therefore have a higher chance of finding items after battle; however, they would also have poor relations with most of the noble factions. The origin mechanic provides fun and interesting variability between campaigns making each company feel distinct both mechanically and thematically.
+
+Regardless of the origin, your company starting out will be pretty pitiful. A couple of brigand thugs will give your men trouble, meaning potentially any fight could spell doom for the company. Early on, Battle Brothers emphasizes of picking your battles, knowing what your men can handle or if you have the right tools for the job is key. Player experience plays a huge role in the early game as knowing your enemy is one of the greatest attributes you can bring to the company as the captain. This is where the debate of ironman vs saving comes in. Some might argue ironman is the one true way and I will agree to an extent, let’s just say it is a very different experience. For new players, I’d recommend not playing ironman. There is so much unpredictability in Battle Brothers and that for a new player some events and outcomes are too brutal. Battles can turn on a dice roll and you can lose your best brothers, being in the wrong place at the wrong time can have you being ambushed by 30 goblins, etc. I’ve played both ironman and with saves and have learned a lot in both types of campaigns. The plus side of saves is you can test things out that you would never dare attempt in ironman and learn some of the finer intricacies of the combat system. Alright, so with that tangent out of the way, let’s get into the backbone of your mercenary company, the mercenaries themselves.
+
+---
+
+#### Building a Brother
 
 ![alt text](/images/BBbuild.jpg)
 
@@ -74,19 +84,23 @@ Below are examples of fully progressed brothers that illustrates some of the pre
  
 The brothers’ specific traits are where they begin to diverge and become more unique. The sellsword has the dexterous trait giving him a bonus to melee skill. Without talent stars in this attribute, it would’ve been difficult for him to become this skilled otherwise. With a high melee skill of 98, I outfitted the sellsword with the highest single-swing damage weapon possible, a famed two-handed axe. This meant I could nearly guarantee massive damage to a single enemy target every turn. For added flexibility the sellsword carries a long axe on his back and has both the pathfinder and quick hands perks, meaning repositioning and switching weapons is often an option. This sellsword has been an unmitigated success, racking in 728 kills in 306 battles making him one of the deadliest and prolific brothers I’ve built.
 
-The farmhand has the iron lungs perk giving him extra stamina recovery per turn. Considering this, I outfitted him with the highest damage multi-swing weapon, a famed orc cleaver. Typically weapons that you can swing multiple times per turn become problematic as the battle wears on, brothers can only a swing so many times before running out of stamina. The iron lungs plus the farmhand’s high base fatigue means he can go longer in battle before running of stamina. For flexibility and reach, the farmhand also has a whip. This provides very good utility as the farmhand can disarm dangerous opponents from a distance or stack bleeds, a damage over time status effect. This farmhand started with the company latter and endured some injury issues, yet 276 kills in 179 battles shows this brother is very effective with the lower kill rate partially being attributed to whip disarm usage.
+The farmhand has the iron lungs perk giving him extra stamina recovery per turn. Considering this, I outfitted him with the highest damage multi-swing weapon, a famed orc cleaver. Typically weapons that you can swing multiple times per turn become problematic as the battle wears on, brothers can only a swing so many times before running out of stamina. The iron lungs plus the farmhand’s high base fatigue means he can go longer in battle before running of stamina. For flexibility and reach, the farmhand also has a whip. This provides very good utility as the farmhand can disarm dangerous opponents from a distance or stack bleeds, a damage over time status effect. This farmhand started with the company later and endured some injury issues, yet 276 kills in 179 battles shows this brother is very effective with the lower kill rate partially being attributed to whip disarm usage.
 
 ---
 
-### Building a Mercenary Company
+#### Company Composition
 
-![alt text](/images/BBcompany.jfif)
+![alt text](/images/BBcompany.jpg)
 
-In Battle Brothers not all mercenary companies are created equal. You’ll quickly begin to realize that the origin of the campaign you select has significant implications on the base level and overall potential of that company. The first option you are presented with when starting a new campaign is the company’s origin. Origins range anywhere from being a group of caravanners to being a lone hedge knight. These origins provide substantial gameplay impact particularly early in the campaign. Each origin comes with a unique set of starting brothers, equipment, resources, and most importantly special rules. These special rules typically come in the form of campaign-long buffs and/or debuffs. For example, if you were to select the _Northern Raiders_ origin you would start with three battle-hardened barbarians that are experienced pillagers and would therefore have a higher chance of finding items after battle; however, they would also have poor relations with most of the noble factions. Overall, the origin mechanic provides fun and interesting variability between campaigns making each company feel distinct both mechanically and thematically.
 
 ---
 
-### The Battlefield
+### Oh the Battles of Battle Brothers (Tactical Map Talk)
+
+
+---
+
+#### The Battlefield
 
 ![alt text](/images/BBbattlefield.jfif)
 
@@ -100,7 +114,7 @@ An important question to ask in any turn-based strategy game is how does the tur
 
 ---
 
-### A Gorgeously Detailed Open World Map
+### A Gorgeously Detailed Open World (World Map Talk)
 
 ![alt text](/images/BBmapslice.jpg)
 
