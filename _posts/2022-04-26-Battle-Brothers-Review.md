@@ -25,6 +25,12 @@ What if I told you that a game without much in the way of animations, where char
 - [Building a Mercenary Company](#building-a-mercenary-company)
   * [Building a Brother](#building-a-brother)
   * [Company Composition](#company-composition)
+- [Oh the Battles of Battle Brothers (Tactical Map Talk)](#Oh-the-Battles-of-Battle-Brothers-(Tactical-Map-Talk))
+  * [The Battlefield](#The-Battlefield)
+  * [The Enemies](#The-Enemies)
+- [A Gorgeously Detailed Open World (World Map Talk)](#A-Gorgeously-Detailed-Open-World-(World-Map-Talk))
+  * [Biomes and Factions](#Biomes-and-Factions)
+  * [Locations](#Locations)
 - [The Expansions](#the-expansions)
   * [Beasts and Exploration](#beasts-and-exploration)
   * [Warriors of the North](#warriors-of-the-north)
@@ -140,11 +146,25 @@ An important question to ask in any turn-based strategy game is how does the tur
 
 ---
 
+#### The Enemies
+
+![alt text](/images/BBenemy.jpg)
+
+---
+
 ### A Gorgeously Detailed Open World (World Map Talk)
 
 ![alt text](/images/BBmapslice.jpg)
 
+---
+
+#### Biomes and Factions
+
 ![alt text](/images/BBworld.jpg)
+
+---
+
+#### Locations
 
 ![alt text](/images/BBlocal.jpg)
 
