@@ -9,6 +9,7 @@ tags: Reviews
 _Review Notes:_
 * _Expansions: [Beasts and Exploration](https://store.steampowered.com/app/961930/Battle_Brothers__Beasts__Exploration/?snr=1_430_4__431), [Warriors of the North](https://store.steampowered.com/app/1067690/Battle_Brothers__Warriors_of_the_North/?snr=1_430_4__431), [Blazing Deserts](https://store.steampowered.com/app/1361280/Battle_Brothers__Blazing_Deserts/?snr=1_430_4__431), [Lindwurms](https://store.steampowered.com/app/732460/Battle_Brothers__Lindwurm/?snr=1_5_9___8)_
 * _Mods:  [Pause without conflicts](https://www.nexusmods.com/battlebrothers/mods/54), [Settlement Situation Tooltips](https://www.nexusmods.com/battlebrothers/mods/100), [Numbers](https://www.nexusmods.com/battlebrothers/mods/94), [Camera elevation bindings](https://www.nexusmods.com/battlebrothers/mods/458)_
+* _Images: All images found in this review are screenshots from my gameplay, artwork from the Lore & Art Book found in the Supporter's Edition of the game, or media from the game's [website](http://battlebrothersgame.com/media/images/)._
 
 ---
 
