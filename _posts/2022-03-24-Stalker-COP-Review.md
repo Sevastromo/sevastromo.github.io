@@ -9,7 +9,7 @@ tags:
 
 _Review Notes:_
 
-* _Mods: Gunslinger Mod (build 2020/02/07) includes Atmosfear and Absolute Nature mods_
+* _Mods: [Gunslinger Mod](https://www.moddb.com/mods/gunslinger-mod) includes Atmosfear and Absolute Nature mods_
 
 ---
 
