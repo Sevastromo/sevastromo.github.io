@@ -1,5 +1,5 @@
 ---
-tag: pc game review
+tag: pc-game-review
 
 ---
 
