@@ -1,6 +1,5 @@
 ---
-tags:
--pc game reviews
+tags: pc game reviews
 ---
 
 ## Resident Evil 2 Remake
