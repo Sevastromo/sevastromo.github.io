@@ -1,8 +1,9 @@
 ---
-tags: PC_Game_Reviews
+tags:
+-pc game reviews
 ---
 
-## Review: Resident Evil 2 Remake
+## Resident Evil 2 Remake
 
 ![alt text](/images/titlecardRE2.jpg)
 
