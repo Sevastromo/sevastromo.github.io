@@ -1,5 +1,5 @@
 ---
-tags: Reviews
+tags: Extended Reviews
 ---
 
 ## Game Review: Battle Brothers (In Progress)
