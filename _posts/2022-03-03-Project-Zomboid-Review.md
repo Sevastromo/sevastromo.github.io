@@ -1,8 +1,8 @@
 ---
-tags: Reviews
+tags: PC_Game_Reviews
 ---
 
-## Game Review: Project Zomboid
+## Review: Project Zomboid
 
 ![alt text](/images/titlecardPZ2.jpg)
 
