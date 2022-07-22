@@ -1,5 +1,5 @@
 ---
-tags: pc game reviews
+tag: pc game review
 ---
 
 ## S.T.A.L.K.E.R. Call of Pripyat
