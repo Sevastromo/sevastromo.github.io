@@ -1,8 +1,9 @@
 ---
-tags: PC_Game_Reviews
+tags:
+-pc game reviews
 ---
 
-## Review: Darkwood
+## Darkwood
 
 ![alt text](/images/DarkTitle.jpg)
 
