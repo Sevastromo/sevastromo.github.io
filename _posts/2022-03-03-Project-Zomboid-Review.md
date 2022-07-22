@@ -1,5 +1,5 @@
 ---
-tags: pc game reviews
+tag: pc game review
 ---
 
 ## Project Zomboid
