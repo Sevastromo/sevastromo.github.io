@@ -1,8 +1,9 @@
 ---
-tags: PC_Game_Reviews
+tags:
+-pc game reviews
 ---
 
-## Review: S.T.A.L.K.E.R. Call of Pripyat
+## S.T.A.L.K.E.R. Call of Pripyat
 
 ![alt text](/images/titlecardCOP2.jpg)
 
