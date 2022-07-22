@@ -1,8 +1,10 @@
 ---
-tags: PC_Game_Reviews
+tags: 
+-pc game review
+-extended
 ---
 
-## Review (Extended): Battle Brothers (In Progress)
+## Battle Brothers (In Progress)
 
 ![alt text](/images/BBtitlecard.jpg)
 
