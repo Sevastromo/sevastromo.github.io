@@ -1,7 +1,6 @@
 ---
-tags: 
--pc game review
--extended
+tags: pc game review
+
 ---
 
 ## Battle Brothers (In Progress)
