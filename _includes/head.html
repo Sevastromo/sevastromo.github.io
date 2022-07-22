@@ -33,4 +33,9 @@
 
   gtag('config', 'G-45R5LED7EQ');
   </script>
+  
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+  
 </head>
