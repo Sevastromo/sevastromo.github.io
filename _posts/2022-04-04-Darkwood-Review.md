@@ -1,5 +1,5 @@
 ---
-tag: pc game reviews
+tag: pc game review
 ---
 
 ## Darkwood
