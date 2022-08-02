@@ -39,7 +39,7 @@ Take this situation as an example:
 *	You spot a single zombie shifting around in the driveway, with a kitchen knife you sneak up and kill the zombie
 *	You turn around to see a hole in the fence that you hadn’t spotted before, a group of zombies heard you and begin to shuffle towards you
 *	Confident in yourself, you backup while taking stabs at the zombies, one falls, then another, but on the third your knife breaks
-*	You panic for a second but refocus and push over the closest zombie, then jogging around the back of the house hoping to lose the group
+*	You panic for a second but refocus and push over the closest zombie, then jog around back of the house hoping to lose the group
 *	You take a sharp turn around a corner and nearly run into another zombie, what happened? he wasn’t there before, must have stumbled out of the forest
 *	You hop through a window, there must be another improvised weapon lying around
 *	The zombies begin to bang on the windows and doors, attracting more to your location, nearly every exit is blocked but you haven’t found a weapon yet
