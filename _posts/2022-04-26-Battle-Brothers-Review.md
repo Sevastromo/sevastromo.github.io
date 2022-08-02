@@ -195,17 +195,10 @@ The above factions are sprinkled in groups throughout the whole map, in camps an
 
 ---
 
-#### Biomes and Factions
+![alt text](/images/BBworld3.jpg)
 
-![alt text](/images/BBworld.jpg)
 
----
-
-#### Locations
-
-![alt text](/images/BBlocal.jpg)
-
-![alt text](/images/BBtown.jpg)
+![alt text](/images/BBtown2.jpg)
 
 ---
 
