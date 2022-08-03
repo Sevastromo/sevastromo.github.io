@@ -1,4 +1,5 @@
 ---
+title: Battle Brothers
 tags: pc-game-review extended-look
 
 ---
