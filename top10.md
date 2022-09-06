@@ -68,6 +68,8 @@ description: top 10s
 
 ### Best of 2019
 
+![alt text](/images/top10_2019.jpg)
+
 1. **The Binding of Isaac: Rebirth**
 2. **Rimworld**
 3. **Battle Brothers**
@@ -80,6 +82,8 @@ description: top 10s
 10. **Noita**
 
 ### Best of 2018
+
+![alt text](/images/top10_2018.jpg)
 
 1. **Faster Than Light**
 2. **Hitman**
@@ -95,6 +99,8 @@ description: top 10s
 
 ### Best of 2017
 
+![alt text](/images/top10_2017.jpg)
+
 1. **The Witcher 3: Wild Hunt**
 2. **Metal Gear Solid V: Phantom Pain**
 3. **Exanima**
@@ -107,6 +113,8 @@ description: top 10s
 10. **Dishonored**
 
 ### Best of 2016
+
+![alt text](/images/top10_2016.jpg)
 
 1. **Dark Souls: Prepare to Die Edition**
 2. **Alien Isolation**
