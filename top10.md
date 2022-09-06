@@ -4,6 +4,8 @@ title: My Favorite Games
 description: top 10s
 ---
 
+---
+
 ## Pound for Pound Rankings
 
 
@@ -20,9 +22,9 @@ description: top 10s
 
 (Rev. 9/1/22)
 
-## Annual Rankings
 ---
 
+## Annual Rankings
 
 ### Best of 2022 (so far)
 
@@ -128,8 +130,9 @@ description: top 10s
 9. **Metro: Last Light**
 10. **Gunpoint**
 
-## Genre Rankings
 ---
+
+## Genre Rankings
 
 ### Roguelikes
 
