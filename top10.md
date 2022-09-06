@@ -4,9 +4,6 @@ description: top 10s
 ---
 
 
----
-
-
 ## Pound for Pound Rankings
 
 
@@ -24,10 +21,8 @@ description: top 10s
 (Rev. 9/1/22)
 
 
----
-
-
 ## Annual Rankings
+
 
 ### Best of 2022 (so far)
 
@@ -76,7 +71,7 @@ description: top 10s
 
 ![alt text](/images/top10_2019.jpg)
 
-1. **The Binding of Isaac: Rebirth**
+1. **The Binding of Isaac: Rebirth** - This game sucked me in whole. The meta-progression is my jam. Unlocking new characters and items by taking on various challenges is addicting. I'm not usually one for top-down bullet hell games but this game clicked with me in 2019.
 2. **Rimworld** - My pound for pound #1 comes in 2nd to The Binding of Isaac??? Similar to Battle Brothers, Rimworld has grown on me, signficantly. I think games with the much depth can be intimidating and hard to understand the first time around. I think I only played Rimworld 25ish hrs in 2019. That has since changed.
 3. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html)** - I have said enough.
 4. **Risk of Rain**
@@ -134,10 +129,8 @@ description: top 10s
 10. **Gunpoint**
 
 
----
-
-
 ## Genre Rankings
+
 
 ### Roguelikes
 
