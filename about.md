@@ -22,8 +22,6 @@ Best goblin in music:
 
 ![](/images/goblin.jpg)
 
----
-
 Favorite Hobbies: Magnets
 
 Favorite Food: Milksteak
@@ -31,40 +29,3 @@ Favorite Food: Milksteak
 Likes: Ghouls
 
 Dislikes: Knees
-
-
----
-
-Favorite PC Games:
-
-* Battle Brothers
-
-* Escape From Tarkov
-
-* Rimworld
-
-* FTL
-
-* Slay the Spire
-
-* The Souls series (except 2)
-
-* The Binding of Isaac: Rebirth
-
-* Project Zomboid
-
-* Into the Breach
-
-* The S.T.A.L.K.E.R. Series
-
-* Some of the Resident Evil series (mainly 1, 2, 3)
-
-* Hitman
-
-* The Witcher 3: Wild Hunt
-
-* The Half-Life series
-
-* Alien Isolation
-
-* Elden Ring
