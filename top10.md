@@ -5,34 +5,36 @@ description: top 10s
 ---
 
 ## Pound for Pound Rankings
+---
 
-1. Rimworld
-2. Escape From Tarkov
-4. Slay the Spire (1 ↑)
-3. Faster Than Light (1 ↓)
-5. Dark Souls: Prepare to Die Edition
-6. Resident Evil 2 Remake
-7. Battle Brothers
-8. Resident Evil Remake (NR)
-9. The Witcher 3: Wild Hunt (1 ↓)
-10. Project Zomboid (1 ↓)
+1. **Rimworld**
+2. **Escape From Tarkov**
+4. **Slay the Spire** (1 ↑)
+3. **Faster Than Light** (1 ↓)
+5. **Dark Souls: Prepare to Die Edition**
+6. **Resident Evil 2 Remake**
+7. **Battle Brothers**
+8. **Resident Evil Remake**
+9. **Hitman: World of Assassination** (NR)
+10. **Project Zomboid** (1 ↓)
 
-(Rev. 5/30/22)
+(Rev. 9/1/22)
 
 ## Annual Rankings
+---
 
 ### Best of 2022 (so far)
 
-1. Doom Eternal
-2. Into the Breach Advanced Edition
-3. Elden Ring
-4. Metro Exodus Enhanced Edition
-5. Dusk
-6. Quake Enhanced Edition
-7. Dead Space 2
-8. Vampire Survivors
-9. Metro 2033 Redux
-10. Inscryption
+1. **Doom Eternal**
+2. **Hitman 3**
+3. **Into the Breach Advanced Edition**
+4. **Elden Ring**
+5. **Metro Exodus Enhanced Edition**
+6. **Dusk**
+7. **Quake Enhanced Edition**
+8. **Dead Space 2**
+9. **Vampire Survivors**
+10. **Inscryption**
 
 ### Best of 2021
 
@@ -47,6 +49,7 @@ description: top 10s
 7. **Resident Evil 3 Remake** - a fun game, a lackluster remake. This could've been so much more...
 8. **Loop Hero** - a fun roguelike with an original set of mechanics.
 9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
+10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
 
 ### Best of 2020
 
@@ -65,47 +68,59 @@ description: top 10s
 
 ### Best of 2019
 
-1. The Binding of Isaac: Rebirth
-2. Rimworld
-3. Battle Brothers
-4. Risk of Rain
-5. Return of the Obra Dinn
-6. Prey
-7. Pillars of Eternity: Deadfire
-8. Risk of Rain 2
+1. **The Binding of Isaac: Rebirth**
+2. **Rimworld**
+3. **Battle Brothers**
+4. **Risk of Rain**
+5. **Return of the Obra Dinn**
+6. **Prey**
+7. **Pillars of Eternity: Deadfire**
+8. **Risk of Rain 2**
+9. **Stellaris**
+10. **Noita**
 
 ### Best of 2018
 
-1. Faster Than Light
-2. Hitman
-3. Slay the Spire
-4. Gwent
-5. Into the Breach
-6. Spelunky
-7. Brothers: A Tale of Two Sons
+1. **Faster Than Light**
+2. **Hitman**
+3. **Slay the Spire**
+4. **Gwent**
+5. **Into the Breach**
+6. **Spelunky**
+7. **Brothers: A Tale of Two Sons**
+8. **Dead Space**
+9. **Superflight**
+10. **Darkest Dungeon**
 
 
 ### Best of 2017
 
-1. The Witcher 3: Wild Hunt
-2. Metal Gear Solid V: Phantom Pain
-3. Exanima
-4. Resident Evil Remake
-5. Stalker: Shadow of Chernobyl
-6. Thief 2: The Metal Age
-7. Thief: Gold
-8. Doom
+1. **The Witcher 3: Wild Hunt**
+2. **Metal Gear Solid V: Phantom Pain**
+3. **Exanima**
+4. **Resident Evil Remake**
+5. **Stalker: Shadow of Chernobyl**
+6. **Thief 2: The Metal Age**
+7. **Thief: Gold**
+8. **Doom**
+9. **The Swapper**
+10. **Dishonored**
 
 ### Best of 2016
 
-1. Dark Souls: Prepare to Die Edition
-2. Alien Isolation
-3. Dark Souls 3
-4. Soma
-5. Amnesia: The Dark Descent
-6. Black Mesa
+1. **Dark Souls: Prepare to Die Edition**
+2. **Alien Isolation**
+3. **Dark Souls 3**
+4. **Soma**
+5. **Amnesia: The Dark Descent**
+6. **Black Mesa**
+7. **Fear**
+8. **Spec Ops: The Line**
+9. **Metro: Last Light**
+10. **Gunpoint**
 
 ## Genre Rankings
+---
 
 ### Roguelikes
 
