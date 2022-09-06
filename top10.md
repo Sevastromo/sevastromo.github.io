@@ -23,6 +23,7 @@ description: top 10s
 ## Annual Rankings
 ---
 
+
 ### Best of 2022 (so far)
 
 1. **Doom Eternal**
