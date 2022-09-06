@@ -4,7 +4,7 @@ title: My Favorite Games
 description: top 10s
 ---
 
-_Pound for Pound Rankings:_
+## Pound for Pound Rankings
 
 1. Rimworld
 2. Escape From Tarkov
@@ -17,12 +17,11 @@ _Pound for Pound Rankings:_
 9. The Witcher 3: Wild Hunt (1 ↓)
 10. Project Zomboid (1 ↓)
 
-
 (Rev. 5/30/22)
 
-Annual Rankings
+## Annual Rankings
 
-Best games the goblin played in 2022 (so far):
+### Best of 2022 (so far)
 
 1. Doom Eternal
 2. Into the Breach Advanced Edition
@@ -35,34 +34,36 @@ Best games the goblin played in 2022 (so far):
 9. Metro 2033 Redux
 10. Inscryption
 
-### Best games of 2021:
+### Best of 2021
 
 ![alt text](/images/top10_2021.jpg)
 
-1. _[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)_ - the ultimate zombie survival sandbox experience.
-2. _[Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html)_ - not ground-breaking, but it does accomplish being a faithful remake. RE2R sticks to the strengths of the original Resident Evil trilogy while presenting itself as a beautifully detailed 3rd person survival horror game.
-3. _[S.T.A.L.K.E.R. Call of Pripyat (Gunslinger Mod)](https://sevastromo.github.io/2022/03/24/Stalker-COP-Review.html)_ - a beautiful visual upgrade to a classic atmosphere and exploration driven shooter
-4. _Rimworld: Ideology_ - an expansion that adds game-changing, thematic variety to each colony
-5. _[Darkwood](https://sevastromo.github.io/2022/04/04/Darkwood-Review.html)_ - a true survival horror experience set in a beautifully bleak world
-6. _Resident Evil Village_ - an entertaining action-adventure (not a lot of survival, some horror) extravaganza
-7. _Resident Evil 3 Remake_ - a fun game, a lackluster remake
-8. _Loop Hero_ - a fun roguelike with an original set of mechanics
-9. _Fallout 2_ - a beautifully grim world fully realized and begging to be explored
+1. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** - the ultimate zombie survival sandbox experience.
+2. **[Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html)** - sticks to the strengths of the original Resident Evil trilogy while presenting itself as a beautifully detailed 3rd person survival horror game.
+3. **[S.T.A.L.K.E.R. Call of Pripyat (Gunslinger Mod)](https://sevastromo.github.io/2022/03/24/Stalker-COP-Review.html)** - the world and atmosphere of Stalker truly sticks with you. Even though it is singleplayer and I've seen everything thing the campaign/side quests have to offer, I find myself searching for reasons to return to the zone. I'll never forget this game.
+4. **Rimworld: Ideology** - an expansion that adds game-changing, thematic variety to each colony. Great for mixing up playthroughs.
+5. **[Darkwood](https://sevastromo.github.io/2022/04/04/Darkwood-Review.html)** - a true survival horror experience set in a beautifully bleak world.
+6. **Resident Evil Village** - an entertaining action-adventure (not a lot of survival, some horror) extravaganza. A fun game, but I'm very unsure about the future of Resident Evil.
+7. **Resident Evil 3 Remake** - a fun game, a lackluster remake. This could've been so much more...
+8. **Loop Hero** - a fun roguelike with an original set of mechanics.
+9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
 
-Best games the goblin played in 2020:
+### Best of 2020
 
-1. Escape From Tarkov
-2. Battle Brothers: Blazing Deserts
-3. Hades
-4. Metro Exodus
-5. Slay the Spire: The Watcher
-6. Halo Master Chief Collection
-7. Monster Train
-8. Spelunky 2
-9. Rimworld: Royalty
-10. Fallout: New Vegas
+![alt text](/images/top10_2020.jpg)
 
-Best games the goblin played in 2019:
+1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
+2. **[Battle Brothers: Blazing Deserts](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html#blazing-deserts)** - I've already said enough
+3. **Hades** - a fun, story-driven roguelike. The greek mythology is really well done with the gods all being memorable. Everything about the game is an 8/10.
+4. **Metro Exodus** - this game has grown on me a lot, but maybe its just because I'm remembering the open world sections and not everything else. It also keeps good company in my thoughts, along side the likes of Tarkvo and Stalker.
+5. **Slay the Spire: The Watcher** - Unfortunately the most boring character out of the bunch. Fortunately, Slay the Spire is spectacular so their worst is others best.
+6. **Halo Master Chief Collection** - a fantastic bundle of the scattered memories I have of the Halo franchise, ranging from multiplayer maps I binged to death with my brothers, campaigns I played through with old friends, and stuff I missed from odd entries long ago.
+7. **Monster Train** banger soundtrack, fun gameplay, blegh visuals.
+8. **Spelunky 2** - Spelunky is hard.
+9. **Rimworld: Royalty** - an okay expansion that I probably didn't fully understand at the time because I was barely scraping the surface of the base content.
+10. **Fallout: New Vegas** - a janky classic.
+
+### Best of 2019
 
 1. The Binding of Isaac: Rebirth
 2. Rimworld
@@ -73,7 +74,7 @@ Best games the goblin played in 2019:
 7. Pillars of Eternity: Deadfire
 8. Risk of Rain 2
 
-Best games the goblin played in 2018:
+### Best of 2018
 
 1. Faster Than Light
 2. Hitman
@@ -84,7 +85,7 @@ Best games the goblin played in 2018:
 7. Brothers: A Tale of Two Sons
 
 
-Best games the goblin played in 2017:
+### Best of 2017
 
 1. The Witcher 3: Wild Hunt
 2. Metal Gear Solid V: Phantom Pain
@@ -95,7 +96,7 @@ Best games the goblin played in 2017:
 7. Thief: Gold
 8. Doom
 
-Best games the goblin played in 2016:
+### Best of 2016
 
 1. Dark Souls: Prepare to Die Edition
 2. Alien Isolation
@@ -104,9 +105,9 @@ Best games the goblin played in 2016:
 5. Amnesia: The Dark Descent
 6. Black Mesa
 
-Genre Rankings
+## Genre Rankings
 
-Roguelikes:
+### Roguelikes
 
 1. Faster Than Light
 2. Slay the Spire
@@ -119,7 +120,7 @@ Roguelikes:
 9. Spelunky 2
 10. Monster Train
 
-RPGs:
+### RPGs
 
 1. The Witcher 3: Wild Hunt
 2. Exanima
@@ -128,7 +129,7 @@ RPGs:
 5. Fallout 2
 6. Pillars of Eternity
 
-Resident Evils:
+### Resident Evils
 
 1. Resident Evil 2 Remake
 2. Resident Evil Remake
@@ -140,7 +141,7 @@ Resident Evils:
 8. Resident Evil 7 Biohazard
 9. Resident Evil 0
 
-Eastern European Shooter RPGs:
+### Eastern European Shooter RPGs
 
 1. Escape From Tarkov
 2. Stalker: Call of Pripyat (Gunslinger Mod)
@@ -150,7 +151,7 @@ Eastern European Shooter RPGs:
 6. Metro 2033 Redux
 7. Stalker: Clear Sky
 
-Immersive Sims:
+### Immersive Sims
 
 1. Hitman
 2. Thief 2: The Metal Age
@@ -159,7 +160,7 @@ Immersive Sims:
 5. Dishonored
 6. Dues Ex
 
-Souls:
+### From Software
 
 1. Dark Souls: Prepare to Die Edition
 2. Elden Ring
@@ -168,7 +169,7 @@ Souls:
 5. Dark Souls 2: Scholar of the First Sin
 6. Sekiro
 
-Horror:
+### Horror
 
 1. Alien Isolation
 2. Soma
@@ -176,7 +177,7 @@ Horror:
 4. Darkwood
 5. Dead Space
 
-Story/Puzzle:
+### Story/Puzzle
 
 1. Portal 2
 2. Portal
@@ -186,7 +187,7 @@ Story/Puzzle:
 6. The Swapper
 7. Papers Please
 
-Action Shooters:
+### Action Shooters
 
 1. Half-Life 2
 2. Doom Eternal
