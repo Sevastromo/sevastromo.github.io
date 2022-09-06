@@ -1,5 +1,4 @@
 ---
-layout: page
 title: My Favorite Games
 description: top 10s
 ---
