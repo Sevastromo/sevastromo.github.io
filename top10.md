@@ -12,11 +12,11 @@ description: top 10s
 4. **Slay the Spire** (1 ↑)
 3. **Faster Than Light** (1 ↓)
 5. **Dark Souls: Prepare to Die Edition**
-6. **Resident Evil 2 Remake**
-7. **Battle Brothers**
+6. **[Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html)**
+7. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html)**
 8. **Resident Evil Remake**
 9. **Hitman: World of Assassination** (NR)
-10. **Project Zomboid** (1 ↓)
+10. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** (1 ↓)
 
 (Rev. 9/1/22)
 
@@ -26,7 +26,7 @@ description: top 10s
 
 ### Best of 2022 (so far)
 
-1. **Doom Eternal**
+1. **Doom Eternal** - the best FPS I've ever played.
 2. **Hitman 3**
 3. **Into the Breach Advanced Edition**
 4. **Elden Ring**
@@ -74,28 +74,28 @@ description: top 10s
 1. **The Binding of Isaac: Rebirth** - This game sucked me in whole. The meta-progression is my jam. Unlocking new characters and items by taking on various challenges is addicting. I'm not usually one for top-down bullet hell games but this game clicked with me in 2019.
 2. **Rimworld** - My pound for pound #1 comes in 2nd to The Binding of Isaac??? Similar to Battle Brothers, Rimworld has grown on me, signficantly. I think games with the much depth can be intimidating and hard to understand the first time around. I think I only played Rimworld 25ish hrs in 2019. That has since changed.
 3. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html)** - I have said enough.
-4. **Risk of Rain**
-5. **Return of the Obra Dinn**
-6. **Prey**
-7. **Pillars of Eternity: Deadfire**
-8. **Risk of Rain 2**
-9. **Stellaris**
-10. **Noita**
+4. **Risk of Rain** - awesome soundtrack, simple bought fun gameplay.
+5. **Return of the Obra Dinn** - again an awesome and very unique soundtrack, along with an art style I haven't seen before. Has it been long enough to where I have forgotten the solutions to this games' many questions?
+6. **Prey** - Have you ever wanted to explore a fully realized, alt-history space station? Well Prey accomplishes that by having visually and functionally distinct sectors of the station, having each human onboard be accounted for and discoverable in-game, and giving the player many tools and applications to interact with the station and its systems.
+7. **Pillars of Eternity: Deadfire** - my gold standard for isometric CRPGs.
+8. **Risk of Rain 2** - a really cool and accurate transformation of Risk of Rain into 3D.
+9. **Stellaris** - cool game, but 4X is not for me.
+10. **Noita** - what happens when you mix a fully destructible world with insanely powerful wizardy and a roguelike format... you get a fiendishly chaotic and difficult game.
 
 ### Best of 2018
 
 ![alt text](/images/top10_2018.jpg)
 
-1. **Faster Than Light**
-2. **Hitman**
-3. **Slay the Spire**
-4. **Gwent**
-5. **Into the Breach**
-6. **Spelunky**
-7. **Brothers: A Tale of Two Sons**
-8. **Dead Space**
-9. **Superflight**
-10. **Darkest Dungeon**
+1. **Gwent**
+2. **Spelunky**
+3. **Faster Than Light**
+4. **Hitman**
+5. **Slay the Spire**
+7. **Into the Breach**
+9. **Brothers: A Tale of Two Sons**
+10. **Dead Space**
+11. **Superflight**
+12. **Darkest Dungeon**
 
 
 ### Best of 2017
@@ -136,14 +136,14 @@ description: top 10s
 
 1. Faster Than Light
 2. Slay the Spire
-3. The Binding of Isaac
+3. The Binding of Isaac: Rebirth
 4. Into the Breach
 5. Risk of Rain
 6. Spelunky
 7. Hades
 8. Risk of Rain 2
 9. Spelunky 2
-10. Monster Train
+10. Noita
 
 ### RPGs
 
@@ -181,9 +181,9 @@ description: top 10s
 1. Hitman
 2. Thief 2: The Metal Age
 3. Prey
-4. Thief: Gold
-5. Dishonored
-6. Dues Ex
+4. Dues Ex
+5. Thief: Gold
+6. Dishonored
 
 ### From Software
 
