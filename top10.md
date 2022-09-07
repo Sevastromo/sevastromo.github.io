@@ -86,38 +86,38 @@ description: top 10s
 
 ![alt text](/images/top10_2018.jpg)
 
-1. **Gwent**
-2. **Spelunky**
-3. **Faster Than Light**
-4. **Hitman**
-5. **Slay the Spire**
-7. **Into the Breach**
-9. **Brothers: A Tale of Two Sons**
-10. **Dead Space**
-11. **Superflight**
-12. **Darkest Dungeon**
+1. **Gwent** - beta Gwent, the one and only time I've been invested in a competitive multiplayer game. I'm sad this version of the game no longer exists as nearly everything else on my 2018 list has aged beautifully and I play to this day.
+2. **Spelunky** - the only time my wife has enjoyed playing a video game... 
+3. **Faster Than Light** - one of the best games I've ever played. Like a great movie, everytime I return to FTL I enjoy it more.
+4. **Hitman** - The Paris level is one of the greatest levels in gaming history.
+5. **Slay the Spire** - again, one of the best games I've ever played. Endlessly replayable, endlessly fun.
+6. **Into the Breach** - the best roguelike/puzzle game out there. I love the art design and soundtrack, the feel is simple yet detailed, sci-fi but rooted on earth.
+7. **Brothers: A Tale of Two Sons** - sad :(
+8. **Dead Space** - the iconic sci-fi horror video game. Shows its age a bit.
+9. **Superflight** - the best $3 game.
+10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
 
 
 ### Best of 2017
 
 ![alt text](/images/top10_2017.jpg)
 
-1. **The Witcher 3: Wild Hunt**
-2. **Metal Gear Solid V: Phantom Pain**
-3. **Exanima**
-4. **Resident Evil Remake**
-5. **Stalker: Shadow of Chernobyl**
-6. **Thief 2: The Metal Age**
-7. **Thief: Gold**
-8. **Doom**
-9. **The Swapper**
-10. **Dishonored**
+1. **The Witcher 3: Wild Hunt** - the best story-driven game I've ever played. The Witcher 3 was such an impactful game for me. I fell in love with standalone Gwent, I trudged through part of Witcher 1, kinda enjoyed Witcher 2, read part of a book (I never read), grimaced through 1.5 seasons of Netflix Witcher when Henry Cavill wasn't on screen all trying to recapture that feeling of being immersed in the world of Witcher 3.
+2. **Metal Gear Solid V: Phantom Pain** - along with Hitman, MGSV has the best stealth gameplay. MGSV offers a vast array of tactical options in its sandbox while the story is complete batshit crazy.
+3. **Exanima** - I've watched this game slowly grow for the past 5 years and while it is extremely slow in development the groundwork and concept here are truly original and exciting. The combat and movement starts by feeling completely jank and broken but slowly becomes graceful and deep with familiarity.
+4. **Resident Evil Remake** - I went from "What the fuck are fixed camera angles?!?! This is unplayable" to "This is peak immersive gameplay". The Spencer Mansion is one of my favorite video game environments.
+5. **S.T.A.L.K.E.R. Shadow of Chernobyl** - this was my introduction to Stalker, I don't know what compelled me to try it, but I'm glad I did.
+6. **Thief 2: The Metal Age** - the stealth genre OG
+7. **Thief: Gold** - the stealth genre OG prequel
+8. **Doom** - very fun game
+9. **The Swapper** - cool sci-fi puzzle game
+10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
 
 ### Best of 2016
 
 ![alt text](/images/top10_2016.jpg)
 
-1. **Dark Souls: Prepare to Die Edition**
+1. **Dark Souls: Prepare to Die Edition** - there's been a few games over the course of my life that have changed my perspective on what video games are and can be. Rimworld is an example where the concept of indirectly controlling your colonists through prioirities simply broke my brain for the first couple hours. FTL opened my eyes to the roguelike genre, displaying how repeat playthroughs are part of the game design. Then there's Dark Souls.
 2. **Alien Isolation**
 3. **Dark Souls 3**
 4. **Soma**
