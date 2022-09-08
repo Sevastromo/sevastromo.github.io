@@ -39,7 +39,7 @@ description: top 10s
 
 ### Best of 2021
 
-![alt text](/images/top10_2021.jpg)
+![alt text](/images/top10_2021_V2.jpg)
 
 1. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** - the ultimate zombie survival sandbox experience.
 2. **[Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html)** - sticks to the strengths of the original Resident Evil trilogy while presenting itself as a beautifully detailed 3rd person survival horror game.
