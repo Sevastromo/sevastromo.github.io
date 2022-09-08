@@ -1,10 +1,10 @@
 ---
-title: My Favorite Games
+title: Annual Rankings
 description: top 10s
 ---
 
 
-## Pound for Pound Rankings
+### Pound for Pound Rankings
 
 
 1. **Rimworld**
@@ -20,11 +20,7 @@ description: top 10s
 
 (Rev. 9/1/22)
 
-
-## Annual Rankings
-
-
-### Best of 2022 (so far)
+### 2022 (so far)
 
 1. **Doom Eternal** - the best FPS I've ever played.
 2. **Hitman 3**
@@ -36,8 +32,6 @@ description: top 10s
 8. **Dead Space 2**
 9. **Vampire Survivors**
 10. **Inscryption**
-
-### Best of 2021
 
 ![alt text](/images/top10_2021_V2.jpg)
 
@@ -52,9 +46,7 @@ description: top 10s
 9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
 10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
 
-### Best of 2020
-
-![alt text](/images/top10_2020.jpg)
+![alt text](/images/top10_2020_V2.jpg)
 
 1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
 2. **[Battle Brothers: Blazing Deserts](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html#blazing-deserts)** - I've already said enough
@@ -67,9 +59,7 @@ description: top 10s
 9. **Rimworld: Royalty** - an okay expansion that I probably didn't fully understand at the time because I was barely scraping the surface of the base content.
 10. **Fallout: New Vegas** - a janky classic.
 
-### Best of 2019
-
-![alt text](/images/top10_2019.jpg)
+![alt text](/images/top10_2019_V2.jpg)
 
 1. **The Binding of Isaac: Rebirth** - This game sucked me in whole. The meta-progression is my jam. Unlocking new characters and items by taking on various challenges is addicting. I'm not usually one for top-down bullet hell games but this game clicked with me in 2019.
 2. **Rimworld** - My pound for pound #1 comes in 2nd to The Binding of Isaac??? Similar to Battle Brothers, Rimworld has grown on me, signficantly. I think games with the much depth can be intimidating and hard to understand the first time around. I think I only played Rimworld 25ish hrs in 2019. That has since changed.
@@ -82,9 +72,7 @@ description: top 10s
 9. **Stellaris** - cool game, but 4X is not for me.
 10. **Noita** - what happens when you mix a fully destructible world with insanely powerful wizardy and a roguelike format... you get a fiendishly chaotic and difficult game.
 
-### Best of 2018
-
-![alt text](/images/top10_2018.jpg)
+![alt text](/images/top10_2018_V2.jpg)
 
 1. **Gwent** - beta Gwent, the one and only time I've been invested in a competitive multiplayer game. I'm sad this version of the game no longer exists as nearly everything else on my 2018 list has aged beautifully and I play to this day.
 2. **Spelunky** - the only time my wife has enjoyed playing a video game... 
@@ -97,10 +85,7 @@ description: top 10s
 9. **Superflight** - the best $3 game.
 10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
 
-
-### Best of 2017
-
-![alt text](/images/top10_2017.jpg)
+![alt text](/images/top10_2017_V2.jpg)
 
 1. **The Witcher 3: Wild Hunt** - the best story-driven game I've ever played. The Witcher 3 was such an impactful game for me. I fell in love with standalone Gwent, I trudged through part of Witcher 1, kinda enjoyed Witcher 2, read part of a book (I never read), grimaced through 1.5 seasons of Netflix Witcher when Henry Cavill wasn't on screen all trying to recapture that feeling of being immersed in the world of Witcher 3.
 2. **Metal Gear Solid V: Phantom Pain** - along with Hitman, MGSV has the best stealth gameplay. MGSV offers a vast array of tactical options in its sandbox while the story is complete batshit crazy.
@@ -113,9 +98,7 @@ description: top 10s
 9. **The Swapper** - cool sci-fi puzzle game
 10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
 
-### Best of 2016
-
-![alt text](/images/top10_2016.jpg)
+![alt text](/images/top10_2016_V2.jpg)
 
 1. **Dark Souls: Prepare to Die Edition** - there's been a few games over the course of my life that have changed my perspective on what video games are and can be. Rimworld is an example where the concept of indirectly controlling your colonists through prioirities simply broke my brain for the first couple hours. FTL opened my eyes to the roguelike genre, displaying how repeat playthroughs are part of the game design. Then there's Dark Souls.
 2. **Alien Isolation**
@@ -129,7 +112,7 @@ description: top 10s
 10. **Gunpoint**
 
 
-## Genre Rankings
+## Bonus Genre Rankings
 
 
 ### Roguelikes
