@@ -33,6 +33,8 @@ description: top 10s
 9. **Vampire Survivors**
 10. **Inscryption**
 
+---
+\
 ![alt text](/images/top10_2021_V2.jpg)
 
 1. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** - the ultimate zombie survival sandbox experience.
@@ -47,7 +49,7 @@ description: top 10s
 10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
 
 ---
-
+\
 ![alt text](/images/top10_2020_V2.jpg)
 
 1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
@@ -62,7 +64,7 @@ description: top 10s
 10. **Fallout: New Vegas** - a janky classic.
 
 ---
-
+\
 ![alt text](/images/top10_2019_V2.jpg)
 
 1. **The Binding of Isaac: Rebirth** - This game sucked me in whole. The meta-progression is my jam. Unlocking new characters and items by taking on various challenges is addicting. I'm not usually one for top-down bullet hell games but this game clicked with me in 2019.
@@ -77,7 +79,7 @@ description: top 10s
 10. **Noita** - what happens when you mix a fully destructible world with insanely powerful wizardy and a roguelike format... you get a fiendishly chaotic and difficult game.
 
 ---
-
+\
 ![alt text](/images/top10_2018_V2.jpg)
 
 1. **Gwent** - beta Gwent, the one and only time I've been invested in a competitive multiplayer game. I'm sad this version of the game no longer exists as nearly everything else on my 2018 list has aged beautifully and I play to this day.
@@ -92,7 +94,7 @@ description: top 10s
 10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
 
 ---
-
+\
 ![alt text](/images/top10_2017_V2.jpg)
 
 1. **The Witcher 3: Wild Hunt** - the best story-driven game I've ever played. The Witcher 3 was such an impactful game for me. I fell in love with standalone Gwent, I trudged through part of Witcher 1, kinda enjoyed Witcher 2, read part of a book (I never read), grimaced through 1.5 seasons of Netflix Witcher when Henry Cavill wasn't on screen all trying to recapture that feeling of being immersed in the world of Witcher 3.
@@ -107,7 +109,7 @@ description: top 10s
 10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
 
 ---
-
+\
 ![alt text](/images/top10_2016_V2.jpg)
 
 1. **Dark Souls: Prepare to Die Edition** - there's been a few games over the course of my life that have changed my perspective on what video games are and can be. Rimworld is an example where the concept of indirectly controlling your colonists through prioirities simply broke my brain for the first couple hours. FTL opened my eyes to the roguelike genre, displaying how repeat playthroughs are part of the game design. Then there's Dark Souls.
@@ -122,7 +124,7 @@ description: top 10s
 10. **Gunpoint**
 
 ---
-
+\
 ![alt text](/images/top10_2015_V2.jpg)
 
 1. Half-Life 2
