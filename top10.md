@@ -46,6 +46,8 @@ description: top 10s
 9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
 10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
 
+---
+
 ![alt text](/images/top10_2020_V2.jpg)
 
 1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
@@ -58,6 +60,8 @@ description: top 10s
 8. **Spelunky 2** - Spelunky is hard.
 9. **Rimworld: Royalty** - an okay expansion that I probably didn't fully understand at the time because I was barely scraping the surface of the base content.
 10. **Fallout: New Vegas** - a janky classic.
+
+---
 
 ![alt text](/images/top10_2019_V2.jpg)
 
@@ -72,6 +76,8 @@ description: top 10s
 9. **Stellaris** - cool game, but 4X is not for me.
 10. **Noita** - what happens when you mix a fully destructible world with insanely powerful wizardy and a roguelike format... you get a fiendishly chaotic and difficult game.
 
+---
+
 ![alt text](/images/top10_2018_V2.jpg)
 
 1. **Gwent** - beta Gwent, the one and only time I've been invested in a competitive multiplayer game. I'm sad this version of the game no longer exists as nearly everything else on my 2018 list has aged beautifully and I play to this day.
@@ -84,6 +90,8 @@ description: top 10s
 8. **Dead Space** - the iconic sci-fi horror video game. Shows its age a bit.
 9. **Superflight** - the best $3 game.
 10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
+
+---
 
 ![alt text](/images/top10_2017_V2.jpg)
 
@@ -98,6 +106,8 @@ description: top 10s
 9. **The Swapper** - cool sci-fi puzzle game
 10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
 
+---
+
 ![alt text](/images/top10_2016_V2.jpg)
 
 1. **Dark Souls: Prepare to Die Edition** - there's been a few games over the course of my life that have changed my perspective on what video games are and can be. Rimworld is an example where the concept of indirectly controlling your colonists through prioirities simply broke my brain for the first couple hours. FTL opened my eyes to the roguelike genre, displaying how repeat playthroughs are part of the game design. Then there's Dark Souls.
@@ -111,6 +121,20 @@ description: top 10s
 9. **Metro: Last Light**
 10. **Gunpoint**
 
+---
+
+![alt text](/images/top10_2015_V2.jpg)
+
+1. Half-Life 2
+2. Half-Life
+3. Portal 2
+4. Portal
+5. Star Wars: Battlefront 2
+6. Jedi Knight: Jedi Outcast
+7. Half-Life 2: Episode 1
+8. Half-Life 2: Episode 2
+9. Half-Life: Blue Shift
+10. Half-Life: Opposing Force
 
 ## Bonus Genre Rankings
 
