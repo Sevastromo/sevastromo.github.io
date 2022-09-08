@@ -1,12 +1,9 @@
 ---
-title: Annual Rankings
+title: Rankings
 description: top 10s
 ---
 \
 ![alt text](/images/best.jpg)
-
-### Pound for Pound Rankings
-
 
 1. **Rimworld**
 2. **Escape From Tarkov**
@@ -21,8 +18,6 @@ description: top 10s
 
 (Rev. 9/1/22)
 
----
-\
 ### 2022 (so far)
 
 1. **Doom Eternal** - the best FPS I've ever played.
@@ -142,7 +137,7 @@ description: top 10s
 10. **Half-Life: Opposing Force**
 
 ---
-\
+
 ## Bonus Genre Rankings
 
 
