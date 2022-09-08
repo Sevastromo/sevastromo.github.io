@@ -4,7 +4,7 @@ description: top 10s
 ---
 \
 ![alt text](/images/best.jpg)
-\
+
 ### Pound for Pound Rankings
 
 
@@ -20,7 +20,7 @@ description: top 10s
 10. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** (1 ↓)
 
 (Rev. 9/1/22)
-\
+
 ---
 \
 ### 2022 (so far)
@@ -35,7 +35,7 @@ description: top 10s
 8. **Dead Space 2**
 9. **Vampire Survivors**
 10. **Inscryption**
-\
+
 ---
 \
 ![alt text](/images/top10_2021_V2.jpg)
@@ -50,7 +50,7 @@ description: top 10s
 8. **Loop Hero** - a fun roguelike with an original set of mechanics.
 9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
 10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
-\
+
 ---
 \
 ![alt text](/images/top10_2020_V2.jpg)
@@ -65,7 +65,7 @@ description: top 10s
 8. **Spelunky 2** - Spelunky is hard.
 9. **Rimworld: Royalty** - an okay expansion that I probably didn't fully understand at the time because I was barely scraping the surface of the base content.
 10. **Fallout: New Vegas** - a janky classic.
-\
+
 ---
 \
 ![alt text](/images/top10_2019_V2.jpg)
@@ -80,7 +80,7 @@ description: top 10s
 8. **Risk of Rain 2** - a really cool and accurate transformation of Risk of Rain into 3D.
 9. **Stellaris** - cool game, but 4X is not for me.
 10. **Noita** - what happens when you mix a fully destructible world with insanely powerful wizardy and a roguelike format... you get a fiendishly chaotic and difficult game.
-\
+
 ---
 \
 ![alt text](/images/top10_2018_V2.jpg)
@@ -95,7 +95,7 @@ description: top 10s
 8. **Dead Space** - the iconic sci-fi horror video game. Shows its age a bit.
 9. **Superflight** - the best $3 game.
 10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
-\
+
 ---
 \
 ![alt text](/images/top10_2017_V2.jpg)
@@ -110,7 +110,7 @@ description: top 10s
 8. **Doom** - very fun game
 9. **The Swapper** - cool sci-fi puzzle game
 10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
-\
+
 ---
 \
 ![alt text](/images/top10_2016_V2.jpg)
@@ -125,7 +125,7 @@ description: top 10s
 8. **Spec Ops: The Line**
 9. **Metro: Last Light**
 10. **Gunpoint**
-\
+
 ---
 \
 ![alt text](/images/top10_2015_V2.jpg)
@@ -140,7 +140,7 @@ description: top 10s
 8. **Half-Life 2: Episode 2**
 9. **Half-Life: Blue Shift**
 10. **Half-Life: Opposing Force**
-\
+
 ---
 \
 ## Bonus Genre Rankings
