@@ -93,6 +93,8 @@ description: top 10s
 9. **Superflight** - the best $3 game.
 10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
 
+**Summary**:
+
 ---
 \
 ![alt text](/images/top10_2017_V2.jpg)
@@ -108,7 +110,7 @@ description: top 10s
 9. **The Swapper** - cool sci-fi puzzle game
 10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
 
-Summary: 2017 was dominated by The Witcher 3 and MGSV. Both of these games had huge open worlds that were a joy to simply exist in, just for very different reasons. The Witcher 3 was the first time I played a video game where the open world felt so incredibly lived in and realistic. The geography was beautiful and varied, the towns and people were grimy and down-to-earth. On the other hand, while MGSV's geogrpahy was at times was beautiful it felt more like an eerie no-mans land, which maybe it was? But the joy was more in the slick traversal/stealth options and the expansive enemy encampments dotted across the map. Other than playing these two behemoths, I somehow got into Resident Evil and Stalker for the first time. And while, at least initially, they did not make a huge splash, the decision to play these games laid the ground work for two series that I now consider some of my favorites.
+**Summary**: 2017 was dominated by The Witcher 3 and MGSV. Both of these games had huge open worlds that were a joy to simply exist in, just for very different reasons. The Witcher 3 was the first time I played a video game where the open world felt so incredibly lived in and realistic. The geography was beautiful and varied, the towns and people were grimy and down-to-earth. On the other hand, while MGSV's geogrpahy was at times was beautiful it felt more like an eerie no-mans land, which maybe it was? But the joy was more in the slick traversal/stealth options and the expansive enemy encampments dotted across the map. Other than playing these two behemoths, I somehow got into Resident Evil and Stalker for the first time. And while, at least initially, they did not make a huge splash, the decision to play these games laid the ground work for two series that I now consider some of my favorites.
 
 ---
 \
@@ -125,7 +127,7 @@ Summary: 2017 was dominated by The Witcher 3 and MGSV. Both of these games had h
 9. **Metro: Last Light** - good, linear shooter with a cool atmosphere.
 10. **Gunpoint** - cool, 2D stealth/puzzle game.
 
-Summary: In 2016 I started to branch from what I knew about in gaming. Dark Souls was the big one. I remember my brother telling about the ridiculously hard game, but it's so much more than that. I remember we were both were playing through it around the same time and everytime we talked we'd go back and forth with stories about what we found or how we handled certain situations. I was always so shocked and intrigued about how his experiences were so different, some stuff he found so easy, some areas I completely missed, some zones we progressed thorugh in opposite directions. To this day, I still love seeing how someone new approaches Dark Souls, it rekindles those feelings I had on my first play-through. Other than that, I really got into horror games. Alien Ioslation, Soma, and Amnesia all bridged the territory between my love of horror films and video games.
+**Summary**: In 2016 I started to branch from what I knew about in gaming. Dark Souls was the big one. I remember my brother telling about the ridiculously hard game, but it's so much more than that. I remember we were both were playing through it around the same time and everytime we talked we'd go back and forth with stories about what we found or how we handled certain situations. I was always so shocked and intrigued about how his experiences were so different, some stuff he found so easy, some areas I completely missed, some zones we progressed thorugh in opposite directions. To this day, I still love seeing how someone new approaches Dark Souls, it rekindles those feelings I had on my first play-through. Other than that, I really got into horror games. Alien Ioslation, Soma, and Amnesia all bridged the territory between my love of horror films and video games.
 
 ---
 \
@@ -142,7 +144,7 @@ Summary: In 2016 I started to branch from what I knew about in gaming. Dark Soul
 9. **Half-Life: Blue Shift** - nice, condense expansion that portrays Half-Life's events from another perspective.
 10. **Half-Life: Opposing Force** - a more beefy expansion. It's solid.
 
-Summary: This was the first year I really got into PC gaming. Most of it was spent replaying games I love like Half-Life 2, the Portals, and Battlefront 2. One thing that blew me away was the mods for Half-Life and Battlefront. With Half-Life there were fan-made levels and cut content. With Battlefront 2 there were huge content packs that added maps, classes, vehicles, etc... These modding communities definitely turned me onto one of the huge benefits of PC gaming, that's modability.
+**Summary**: This was the first year I really got into PC gaming. Most of it was spent replaying games I love like Half-Life 2, the Portals, and Battlefront 2. One thing that blew me away was the mods for Half-Life and Battlefront. With Half-Life there were fan-made levels and cut content. With Battlefront 2 there were huge content packs that added maps, classes, vehicles, etc... These modding communities definitely turned me onto one of the huge benefits of PC gaming, that's modability.
 
 ---
 <!---
@@ -237,3 +239,4 @@ Summary: This was the first year I really got into PC gaming. Most of it was spe
 4. Halo: The Master Chief Collection
 5. Doom (2016)
 6. F.E.A.R.
+--->
