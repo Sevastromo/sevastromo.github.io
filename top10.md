@@ -18,9 +18,10 @@ description: top 10s
 
 (Rev. 9/1/22)
 
+<!---
 ### 2022 (so far)
 
-1. **Doom Eternal** - the best FPS I've ever played.
+#1. **Doom Eternal** - the best FPS I've ever played.
 2. **Hitman 3**
 3. **Into the Breach Advanced Edition**
 4. **Elden Ring**
@@ -30,6 +31,7 @@ description: top 10s
 8. **Dead Space 2**
 9. **Vampire Survivors**
 10. **Inscryption**
+--->
 
 ---
 \
@@ -106,6 +108,8 @@ description: top 10s
 9. **The Swapper** - cool sci-fi puzzle game
 10. **Dishonored** - Thief but with overpowered skills, ehh it's okay.
 
+Summary: 2017 was dominated by The Witcher 3 and MGSV. Both of these games had huge open worlds that were a joy to simply exist in, just for very different reasons. The Witcher 3 was the first time I played a video game where the open world felt so incredibly lived in and realistic. The geography was beautiful and varied, the towns and people were grimy and down-to-earth. On the other hand, while MGSV's geogrpahy was at times was beautiful it felt more like an eerie no-mans land, which maybe it was? But the joy was more in the slick traversal/stealth options and the expansive enemy encampments dotted across the map. Other than playing these two behemoths, I somehow got into Resident Evil and Stalker for the first time. And while, at least initially, they did not make a huge splash, the decision to play these games laid the ground work for two series that I now consider some of my favorites.
+
 ---
 \
 ![alt text](/images/top10_2016_V2.jpg)
@@ -114,30 +118,34 @@ description: top 10s
 2. **Alien Isolation** - the best video game representation of the original Alien. They hit the nail on the head with the retro-futuristic design.
 3. **Dark Souls 3** - more Dark Souls, this time a little sleeker and more linear.
 4. **Soma** - one of the best stories in video games. Soma asks really interesting questions about human conscience and technology while triggering my horrifying fears related to the depths of the ocean.
-5. **Amnesia: The Dark Descent**
-6. **Black Mesa**
-7. **Fear**
-8. **Spec Ops: The Line**
-9. **Metro: Last Light**
-10. **Gunpoint**
+5. **Amnesia: The Dark Descent** - probably the scariest game I've ever played. The atmosphere of this game chills me to the core, just hearing the title screen music is enough to make me question my choice to continue playing.
+6. **Black Mesa** - fantastic game, can't say enough about how high quality this mod turned full-fledged remake is.
+7. **F.E.A.R.** - what if I told you I played essientally the whole game without knowing about the bullet-time mechanic... I gotta replay this.
+8. **Spec Ops: The Line** - traumatizing story, okay gameplay.
+9. **Metro: Last Light** - good, linear shooter with a cool atmosphere.
+10. **Gunpoint** - cool, 2D stealth/puzzle game.
+
+Summary: In 2016 I started to branch from what I knew about in gaming. Dark Souls was the big one. I remember my brother telling about the ridiculously hard game, but it's so much more than that. I remember we were both were playing through it around the same time and everytime we talked we'd go back and forth with stories about what we found or how we handled certain situations. I was always so shocked and intrigued about how his experiences were so different, some stuff he found so easy, some areas I completely missed, some zones we progressed thorugh in opposite directions. To this day, I still love seeing how someone new approaches Dark Souls, it rekindles those feelings I had on my first play-through. Other than that, I really got into horror games. Alien Ioslation, Soma, and Amnesia all bridged the territory between my love of horror films and video games.
 
 ---
 \
 ![alt text](/images/top10_2015_V2.jpg)
 
-1. **Half-Life 2**
-2. **Half-Life**
-3. **Portal 2**
-4. **Portal**
-5. **Star Wars: Battlefront 2**
-6. **Jedi Knight: Jedi Outcast**
-7. **Half-Life 2: Episode 1**
-8. **Half-Life 2: Episode 2**
-9. **Half-Life: Blue Shift**
-10. **Half-Life: Opposing Force**
+1. **Half-Life 2** - the Ravenholm demo on Steam back in the late 2000s was how I found out about Half-Life and Steam. I ended getting The Orange Box for our Xbox 360 and fell in love with Valve games, so much so my first purchase on Steam on my own PC was the Valve Complete Pack. Out of all the fantastic games in that collection, Half-Life 2 is the best and my favorite.
+2. **Half-Life** - After years of playing Half-Life 2, I had to play its predecessor and yeah it's really, really good.
+3. **Portal 2** - a great follow-up, improving on every aspect of the original. The co-op mode is well done if not rage inducing.
+4. **Portal** - one the greatest puzzle games ever. Short but sweet.
+5. **Star Wars: Battlefront 2** - my most nostalgic game by far. When this came out, me and my brothers somehow got our hands on a PC release of Battlefront and even more miraculously a random PC in our attic was able to run it. Running it might be a bit of an overstatement because we were probably barely scraping 30 FPS and the load times were unbearable. Nonetheless, Battlefront's 3 modes: campaign, galatic conquest, and instant action and are engrained in my brain and all equally fun in their own rights. Each map I know like the back of my hand, well maybe not Dagobah, and the sound effects plus music are just iconic.
+6. **Jedi Knight II: Jedi Outcast** - these Jedi Knight games are super underrated.
+7. **Half-Life 2: Episode 1** - more of Half-Life 2, this is a good thing.
+8. **Half-Life 2: Episode 2** - the unexpected end of the road :(
+9. **Half-Life: Blue Shift** - nice, condense expansion that portrays Half-Life's events from another perspective.
+10. **Half-Life: Opposing Force** - a more beefy expansion. It's solid.
+
+Summary: This was the first year I really got into PC gaming. Most of it was spent replaying games I love like Half-Life 2, the Portals, and Battlefront 2. One thing that blew me away was the mods for Half-Life and Battlefront. With Half-Life there were fan-made levels and cut content. With Battlefront 2 there were huge content packs that added maps, classes, vehicles, etc... These modding communities definitely turned me onto one of the huge benefits of PC gaming, that's modability.
 
 ---
-
+<!---
 ## Bonus Genre Rankings
 
 
