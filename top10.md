@@ -48,6 +48,29 @@ description: top 10s
 9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
 10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
 
+**Summary**: 2021 is undoubtedly the year of Resident Evil, let's recap the absolutely nonsensical order in which I played this nonsensical series. Prior to 2021, I had played the remakes of 1 and 2 and enjoyed them both but hadn't given them much of a second thought. Coming into 2021 I think there was some hype behind Resident Evil Village and I ended up getting the 3rd remake ahead of Village's release and this is what followed:
+
+Completion Date | Game | Type
+--- |---| ---
+4/19 | Resident Evil 3 Remake | Normal
+4/22 | Resident Evil 2 Remake | Hardcore Claire
+4/26 | Resident Evil 2 Remake | S-rank Leon
+5/05 | Resident Evil 7 | Normal
+5/17 | Resident Evil Village | Normal
+5/20 | Resident Evil Village | Hardcore
+5/25 | Resident Evil 2 Remake | S-rank Claire
+5/28 | Resident Evil 4 | Normal
+6/13 | Resident Evil Remaster | Normal Chris
+6/17 | Resident Evil 2 | Normal Leon
+6/25 | Resident Evil 3 Nemesis | Normal
+7/03 | Resident Evil 3 Remake | S-ranked Hardcore
+7/17 | Resident Evil 0 Remaster | Normal
+7/21 | Resident Evil 2 | Normal Claire
+7/28 | Resident Evil Remaster | Hardcore Jill
+7/31 | Resident Evil Remaster | S-ranked Knife-only Normal Jill
+
+And no that I typed that out its seems a bit excessive... but moral of the story is Resident Evil is a series with some great moments and you should play it, particularly 1 and 2.
+
 ---
 \
 ![alt text](/images/top10_2020_V2.jpg)
@@ -63,6 +86,8 @@ description: top 10s
 9. **Rimworld: Royalty** - an okay expansion that I probably didn't fully understand at the time because I was barely scraping the surface of the base content.
 10. **Fallout: New Vegas** - a janky classic.
 
+**Summary**: Covid-19? Never heard of it... because I spent the whole first wave of the pandemic playing Escape From Tarkov with my brother. Not many gaming experiences compare to EFT. It's hard to put into words why the gameplay of EFT works so well, although I think it as a lot to do with what it doesn't have. It has essientally no HUD, no map, no teammate indicators and friendly fire is on. I believe the collective affect is that players must pay attention, listen, look, and communicate. In EFT friendly fire isn't a joke you pull to mess with friends, friendly fire is a complete mistake that puts your teammate into a shellshocked tirade. Friendly fire is a disorienting experience for both parties because both realities are shattered at once. Picture this, you're in a forest and come under gunfire. You take cover seperating slightly from your teammate. Your teammate asks for you location, you say "behind a tree over here". You spot the enemy and fire back, enemy returns fire once more, you switch trees and to your relief your teammate spots the enemy, "I see him!". You give him the go ahead to fire and your teammate elatedly yells "I got him!" and right at that moment your headshot... dead. You react, "what the fuck!... he got me..." your teammate, disappointed but still excited about the kill, runs over to the body just as your match-over screen comes up aannnndddd goddammit...
+
 ---
 \
 ![alt text](/images/top10_2019_V2.jpg)
@@ -77,6 +102,8 @@ description: top 10s
 8. **Risk of Rain 2** - a really cool and accurate transformation of Risk of Rain into 3D.
 9. **Stellaris** - cool game, but 4X is not for me.
 10. **Noita** - what happens when you mix a fully destructible world with insanely powerful wizardy and a roguelike format... you get a fiendishly chaotic and difficult game.
+
+**Summary**: I 100%ed a The Binding of Isaac: Rebirth save file in 2019, if you know anything about Isaac that should explain my 2019 to you. If not, just understand that the variety of Isaac is immense... 10+ characters, 9 endings I think, multiple game modes, etc so imagine all the permutations. Rimworld and Battle Brothers are two of my favorite games that I just grazed the surface of in 2019. I think both I put down after 30ish hours feeling kind of exhausted by the exerpience of learning all aspects of the games. So maybe not the most beginner friendly games, but just check out my top 10 all-time to see if they're worth coming back to.
 
 ---
 \
