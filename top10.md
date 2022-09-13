@@ -93,7 +93,7 @@ description: top 10s
 9. **Superflight** - the best $3 game.
 10. **Darkest Dungeon** - holds the record for the game I've played the most but never beaten.
 
-**Summary**:
+**Summary**: I spent an unreasonable amount of time playing Gwent. Looking back, I don't understand how I both had a job and was working on my thesis while competing on Gwent's pro ladder. It was so much fun to deckbuild and play until I ran into actually stiff competition. The game just became too stressful plus I was probably burnout from only playing Gwent for 6 months. Outside of that, I somehow stumbled upon some of the best roguelikes ever not to mention my favorite games ever, those being FTL, Slay the Spire, Into the Breach, and Spelunky. FTL I may have tried to play previously, but in 2018 it really stuck with me. The permadeath format was super-compelling as each run became unique and worth fighting for. I also remember Ben Prunty's FTL soundtrack being what I played to really focus in on thesis writing. Slay the Spire really tickled the Gwent deckbuilding itch I had left over by putting the deckbuilding on the fly in a roguelike format. Playing Spelunky co-op with my wife was the most fun we've ever had playing a video game together. All the interactivity built into Spelunky makes for so many spontaneous and unexpected situations/outcomes to the point where you're always learning new details.
 
 ---
 \
