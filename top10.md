@@ -16,6 +16,8 @@ description: top 10s
 9. **Hitman: World of Assassination** (NR)
 10. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** (1 ↓)
 
+**Honorable Mentions**: The Witcher 3: Wild Hunt, The Binding of Isaac: Rebirth, Spelunky, Doom Eternal, Star Wars Battlefront 2, Half-life 2, Half-Life, Portal 2, Portal, S.T.A.L.K.E.R. Call of Pripyat, Metal Gear Solid V: Phantom Pain, Halo Master Chief Collection, Into the Breach, Amnesia: The Dark Descent, Elden Ring
+
 (Rev. 9/1/22)
 
 <!---
