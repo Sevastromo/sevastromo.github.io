@@ -48,8 +48,9 @@ description: top 10s
 9. **Fallout 2** - a beautifully grim world fully realized and begging to be explored.
 10. **Valheim** - not my cup of tea, but it was fun and I could see myself giving it another shot.
 
-**Summary**: 2021 is undoubtedly the year of Resident Evil, let's recap the absolutely nonsensical order in which I played this nonsensical series. Prior to 2021, I had played the remakes of 1 and 2 and enjoyed them both but hadn't given them much of a second thought. Coming into 2021 I think there was some hype behind Resident Evil Village and I ended up getting the 3rd remake ahead of Village's release and this is what followed:
+**Summary**: 2021 is undoubtedly the year of Resident Evil, so let's recap the absolutely nonsensical amount I played this nonsensical series. Prior to 2021, I had played the remakes of 1 and 2 and enjoyed them both but hadn't given them much of a second thought. Coming into 2021 I think there was some hype behind Resident Evil Village and I ended up getting the 3rd remake ahead of Village's release and this is what followed. I ended up playing the Resident Evil Remaster 3 times, Resident Evil 2 and its remake 5 times, Resident Evil 3 and its remake 3 times, Resident Evil 4 once, Resident Evil 7 once, Resident Evil Village twice, and Resident Evil 0 Remaster once. After reading that you might think I am sick of this series but that's only kinda the case. Yes, you probably won't catch me playing 0, 3 remake, 4, 7 or Village anset the bar as pinnacles of the survival horror genre. Oh yeah and I really got into Stalker. Anomaly and the Gunslinger mod for COP totally scratched that Tarkov itch left over from 2020.
 
+<!---
 Completion Date | Game | Type
 --- |---| ---
 4/19 | Resident Evil 3 Remake | Normal
@@ -68,8 +69,7 @@ Completion Date | Game | Type
 7/21 | Resident Evil 2 | Normal Claire
 7/28 | Resident Evil Remaster | Hardcore Jill
 7/31 | Resident Evil Remaster | S-ranked Knife-only Normal Jill
-
-And no that I typed that out its seems a bit excessive... but moral of the story is Resident Evil is a series with some great moments and you should play it, particularly 1 and 2.
+--->
 
 ---
 \
