@@ -21,18 +21,24 @@ description: top 10s
 (Rev. 9/1/22)
 
 <!---
-### 2022 (so far)
+2022
 
-#1. **Doom Eternal** - the best FPS I've ever played.
-2. **Hitman 3**
-3. **Into the Breach Advanced Edition**
-4. **Elden Ring**
-5. **Metro Exodus Enhanced Edition**
-6. **Dusk**
-7. **Quake Enhanced Edition**
-8. **Dead Space 2**
-9. **Vampire Survivors**
-10. **Inscryption**
+**Doom Eternal**
+**Hitman 3**
+**Into the Breach Advanced Edition**
+**Elden Ring**
+**Metro Exodus Enhanced Edition**
+**Dusk**
+**Quake Enhanced Edition**
+**Inside**
+**Dead Space 2**
+**Vampire Survivors**
+**Inscryption**
+**Doom (1993)**
+**Dying Light**
+**Metro 2033 Redux**
+**Hitman: Blood Money**
+
 --->
 
 ---
