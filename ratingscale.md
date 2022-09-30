@@ -4,11 +4,13 @@ title: Rating Scale
 description: My rating scale description
 ---
 
+<!---
 Here's my rating scale. Number/star ratings are pretty silly and sometimes undermine the points made in the review itself. You're always going to lose something when attaching a quantitative value to something inherently qaulitative like a review. On the otherhand, creating hierarchies or categorizing stuff is a lot of fun.
+--->
 
 As a disclaimer, I think I am more interested in talking about games I like, detailing why I enjoyed them rather than getting into games that fall below neutral on this scale. Also, I intend to avoid reviewing a game that I have not finished. All this to say, there will most likely be a glut of highly rated games on this website.
 
-## Description Table
+## Rating Description Table
 
 | Star Rating  | Description | 
 | --- | --- | 
@@ -31,3 +33,9 @@ As a disclaimer, I think I am more interested in talking about games I like, det
 | ★★★★1/2  | 3 | [Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html), [Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html), [S.T.A.L.K.E.R. Call of Pripyat](https://sevastromo.github.io/2022/03/24/Stalker-COP-Review.html) | 
 | ★★★★ | 1 | [Darkwood](https://sevastromo.github.io/2022/04/04/Darkwood-Review.html) | 
 | ★★★1/2 | 1 | [Inside](https://sevastromo.github.io/2022/09/19/Inside.html) | 
+| ★★★ | 0 | |
+| ★★1/2 | 0 | |
+| ★★ | 0 | |
+| ★1/2 | 0 | |
+| ★ | 0 | |
+| 1/2 | 0 | |
