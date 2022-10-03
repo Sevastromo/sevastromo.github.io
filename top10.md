@@ -3,7 +3,7 @@ title: Rankings
 description: top 10s
 ---
 \
-![alt text](/images/best.jpg)
+![alt text](/images/top10/best.jpg)
 
 1. **Rimworld**
 2. **Escape From Tarkov**
@@ -43,7 +43,7 @@ description: top 10s
 
 ---
 \
-![alt text](/images/top10_2021_V2.jpg)
+![alt text](/images/top10/top10_2021_V2.jpg)
 
 1. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** - the ultimate zombie survival sandbox experience.
 2. **[Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html)** - sticks to the strengths of the original Resident Evil trilogy while presenting itself as a beautifully detailed 3rd person survival horror game.
@@ -81,7 +81,7 @@ Completion Date | Game | Type
 
 ---
 \
-![alt text](/images/top10_2020_V2.jpg)
+![alt text](/images/top10/top10_2020_V2.jpg)
 
 1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
 2. **[Battle Brothers: Blazing Deserts](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html#blazing-deserts)** - I've already said enough
@@ -98,7 +98,7 @@ Completion Date | Game | Type
 
 ---
 \
-![alt text](/images/top10_2019_V2.jpg)
+![alt text](/images/top10/top10_2019_V2.jpg)
 
 1. **The Binding of Isaac: Rebirth** - This game sucked me in whole. The meta-progression is my jam. Unlocking new characters and items by taking on various challenges is addicting. I'm not usually one for top-down bullet hell games but this game clicked with me in 2019.
 2. **Rimworld** - My pound for pound #1 comes in 2nd to The Binding of Isaac??? Similar to Battle Brothers, Rimworld has grown on me, signficantly. I think games with the much depth can be intimidating and hard to understand the first time around. I think I only played Rimworld 25ish hrs in 2019. That has since changed.
@@ -115,7 +115,7 @@ Completion Date | Game | Type
 
 ---
 \
-![alt text](/images/top10_2018_V2.jpg)
+![alt text](/images/top10/top10_2018_V2.jpg)
 
 1. **Gwent** - beta Gwent, the one and only time I've been invested in a competitive multiplayer game. I'm sad this version of the game no longer exists as nearly everything else on my 2018 list has aged beautifully and I play to this day.
 2. **Spelunky** - the only time my wife has enjoyed playing a video game... 
@@ -134,7 +134,7 @@ Completion Date | Game | Type
 
 ---
 \
-![alt text](/images/top10_2017_V2.jpg)
+![alt text](/images/top10/top10_2017_V2.jpg)
 
 1. **The Witcher 3: Wild Hunt** - the best story-driven game I've ever played. The Witcher 3 was such an impactful game for me. I fell in love with standalone Gwent, I trudged through part of Witcher 1, kinda enjoyed Witcher 2, read part of a book (I never read), grimaced through 1.5 seasons of Netflix Witcher when Henry Cavill wasn't on screen all trying to recapture that feeling of being immersed in the world of Witcher 3.
 2. **Metal Gear Solid V: Phantom Pain** - along with Hitman, MGSV has the best stealth gameplay. MGSV offers a vast array of tactical options in its sandbox while the story is complete batshit crazy.
@@ -151,7 +151,7 @@ Completion Date | Game | Type
 
 ---
 \
-![alt text](/images/top10_2016_V2.jpg)
+![alt text](/images/top10/top10_2016_V2.jpg)
 
 1. **Dark Souls: Prepare to Die Edition** - there's been a few games over the course of my life that have changed my perspective on what video games are and can be. Rimworld is an example where the concept of indirectly controlling your colonists through prioirities simply broke my brain for the first couple hours. FTL opened my eyes to the roguelike genre, displaying how repeat playthroughs are part of the game design. Then there's Dark Souls.
 2. **Alien Isolation** - the best video game representation of the original Alien. They hit the nail on the head with the retro-futuristic design.
@@ -168,7 +168,7 @@ Completion Date | Game | Type
 
 ---
 \
-![alt text](/images/top10_2015_V2.jpg)
+![alt text](/images/top10/top10_2015_V2.jpg)
 
 1. **Half-Life 2** - the Ravenholm demo on Steam back in the late 2000s was how I found out about Half-Life and Steam. I ended getting The Orange Box for our Xbox 360 and fell in love with Valve games, so much so my first purchase on Steam on my own PC was the Valve Complete Pack. Out of all the fantastic games in that collection, Half-Life 2 is the best and my favorite.
 2. **Half-Life** - After years of playing Half-Life 2, I had to play its predecessor and yeah it's really, really good.
