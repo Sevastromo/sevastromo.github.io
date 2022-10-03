@@ -4,7 +4,7 @@ tags: pc-game-review
 
 ## Resident Evil 2 Remake
 
-![alt text](/images/titlecardRE2.jpg)
+![alt text](/images/Resident-Evil-2/RE2_titlecard.jpg)
 
 _Review Notes:_
 * _Mods: First-person Camera and RE2 Mod Framework (Credit to the mod author, used free cam for screenshots and dabbled in some first-person gameplay)_
@@ -14,14 +14,14 @@ _Review Notes:_
 
 Resident Evil 2 Remake and Resident Evil Remake are my favorite games of the expansive Resident Evil franchise. Both are fantastic remakes of their originals, staying true to the classics while enhancing the player experience by being acessible on modern platforms and having modern visuals and controls . REmake represents the pinnacle of what the original trilogy was: fixed camera angles, beautifully detailed 2D backgrounds and 3D character models, memorable level design, a mix of true horror and shlocky action, restricted inventory space, puzzle solving, and tough combat with a limited arsenal. RE2R picks up on everything REmake accomplished aside from the fixed camera angles and 2D backgrounds. The fixed camera angles are replaced with a more modern 3rd person view and the world is now rendered fully in 3D without compromising on any detail thanks to modern hardware. So, while I’ll miss the original’s fixed camera angles and 2D backgrounds, the only detail lost is those choice camera angles that either hid information intentionally from the player or were just stunningly beautiful. The image on the left is REmake, an obviously curated camera angle that utilizes the foreground while providing a detailed backdrop with its own sources of light and reflections. On the right I took a stab at creating a "fixed camera angle" with the free cam mod. While it is an amatuer attempt, it does illustrate that thanks to modern hardware we can get 2D background level of detail in a 3D environment.
 
-![alt text](/images/RE-comp2.jpg)
+![alt text](/images/Resident-Evil-2/RE2-comp.jpg)
 
 ---
 ### I Love Raccoon City Police Department
 
 The visuals of RE2R are truly spectacular. The Racoon City Police Department in particular is such a memorable location. Whoever had the idea of the setting to be a police department setup inside an old art museum was a genius. The location is dripping with character. Each room can be peeled apart to reveal three layers of personality. On the surface level there's obviously a zombie outbreak occuring, makeshift barricades hamper your movement around the station, a pop-up medical ward is setup in the main hall, corpses dead and not-so dead line the hallways. Just below the blood and guts is what used to be Raccoon City police department. While the layout of the building is unconventional to say the least, the first floor rooms themselves are clearly identifiable in their purpose garnering a vague sense of familiarity for the player. There's the locker room, the interrogation rooms, receptions desk, and offices. Underneath it all there's an old museum. When so often in western media a police station is depicted as being cold, sterile, and bureaucratic in nature the back-drop of a museum adds a layer of mystery and an uncanny feel to what should be the mundane. This layering gives weight and a history to the location that the player can feel as they move through the halls. It also helps that the connection between the player and the protagonists Leon and Claire is as strong as ever. The in-game models of Leon and Claire are rendered in great detail and all their animations are realistic and responsive. I love the lengths the developers took to add small details to the character animations, such as pinning the flashlight between the neck and shoulder when reloading a gun. The visual design choices also have mechanical weight as the player can just glance at the character model and know what items they have equipped. Below, you can see Claire is in a tough spot but I can also quickly spot she has a stun grenade equipped on her belt. This all leads to to a very cohesive yet detailed visual aesthetic where the storytelling, gameplay, and atmosphere all feed the visual design.
 
-![alt text](/images/RE2jill.jpg)
+![alt text](/images/Resident-Evil-2/RE2_jill.jpg)
 
 ---
 ### An Evolution of the Original Formula
@@ -32,7 +32,7 @@ Character progression is primarily done by discovering items which increase the 
 
 The most praise I can give is shown below. Disclaimer, I am not a speedrunner but yes I did speedrun the game as both Leon and Claire and yes it was really fun. This shows that the gameplay system can work in a methodical, survival horror playthrough and a fast-paced action-oriented speedrun.
 
-![alt text](/images/REspeed.jpg)
+![alt text](/images/Resident-Evil-2/RE2_speedrun.jpg)
 
 ---
 ### Verdict
