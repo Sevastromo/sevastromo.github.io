@@ -6,7 +6,7 @@ tags: pc-game-review extended-look
 
 ## Battle Brothers
 
-![alt text](/images/BBtitlecard.jpg)
+![alt text](/images/Battle-Brothers/BB_titlecard.jpg)
 
 _Review Notes:_
 * _Expansions: [Beasts and Exploration](https://store.steampowered.com/app/961930/Battle_Brothers__Beasts__Exploration/?snr=1_430_4__431), [Warriors of the North](https://store.steampowered.com/app/1067690/Battle_Brothers__Warriors_of_the_North/?snr=1_430_4__431), [Blazing Deserts](https://store.steampowered.com/app/1361280/Battle_Brothers__Blazing_Deserts/?snr=1_430_4__431), [Lindwurms](https://store.steampowered.com/app/732460/Battle_Brothers__Lindwurm/?snr=1_5_9___8)_
@@ -63,7 +63,7 @@ If you want a more thematic and fun introduction to Battle Brothers check out th
 
 ### What is the Point of a Mercenary Company Anyway
 
-![alt text](/images/BBend.jfif)
+![alt text](/images/Battle-Brothers/BB_end.jpg)
 
 At its core Battle Brothers is open-ended. The game does not paint any grand schemes or tell a long-form story, it doesn’t even communicate any end-game gameplay-related goals. The game does a really good job at making it clear your company is like any other, just a cog in a world the was getting by just fine before you showed and surely after you’re gone. So, without any grandiose machinations of what your company will probably not become, you’re faced with the much more pressing concern of feeding a grimy lot of sellswords on a rapidly diminishing budget. If you do nothing, brothers will starve and desert, if you do something it better make coin because the men’s wages are coming due. Therefore, the baseline motivation in Battle Brothers is survive, hence make money to pay and feed your men. As the campaign evolves, motivations evolve, so here are the stages I’ve noticed I go through during a Battle Brothers campaign:
 
@@ -79,7 +79,7 @@ A weak point (that is kind of a non-issue due to the previously discussed format
 
 ### Building a Mercenary Company
 
-![alt text](/images/BBcompany.jfif)
+![alt text](/images/Battle-Brothers/BB_company.jpg)
 
 At the center of Battle Brothers is your mercenary company. The game revolves around your management of the company both in and out of battle. The game puts the player firmly in the boots of the company’s captain and with that the company’s future prospects entirely lie on your shoulders. When starting a new campaign, the player is asked to choose the company’s origin. This selection gives the opportunity to contextualize the company within the low-fantasy landscape Battle Brothers puts forth. Origins range anywhere from being a group of caravanners to a lone hedge knight. Each origin represents a different way of life that already exists in the world, whether low-born peasants or trained soldiers’ origin choices feel grounded. You are not starting out as a predestined hero, a “chosen one”, or even an individual with exceptional skill, you are a greasy cog in a world that churns with or without your existence. It is only through you, the captain, that the company will ever achieve anything of note.
 
@@ -91,11 +91,11 @@ Regardless of the origin, your company starting out will be pretty pitiful. A co
 
 #### Building a Brother
 
-![alt text](/images/BBbuild.jpg)
+![alt text](/images/Battle-Brothers/BB_build.jpg)
 
 In Battle Brothers not all brothers are equal. You’ll quickly begin to realize that the background of the brother you hired has significant implications on the base level and overall potential of that brother. Hiring a vagabond at the local village may be convenient and cheap with his sackcloth outfit and bludgeon but he won’t stack up well to the rare, mace-wielding sellsword you saw at the fort to the north. However, a great aspect of this game is that there’s a time and place where either of these hires would make the most sense. The game is dynamic in that shoveling out coin for the baddest bloke on the block is not always the best move. Early in the game, when your mercenary company’s numbers are thin and the purse is tight, hiring a vagabond so that you have another body to throw onto the battlefield makes a lot of sense. Once your company is well established and not with the early game financial restraints, the sellsword could make the most sense by adding a highly skilled, well-equipped brother to your ranks. Below is a comparison of a mediocre sellsword to an exceptional vagabond. This illustrates the cost effectiveness of checking out lowborn backgrounds as the base level attributes are comparable, but the initial cost and wage gap is substantial. The wages in particular are of concern as the initial cost can be somewhat offset by the gear the brother currently possess. If the company needs a finely crafted axe and protective helmet, the cost of the sellsword becomes more appetizing. Wages are a reoccurring cost and will only potentially be offset by the benefits of higher attributes.
 
-![alt text](/images/BBcomp1.jpg)
+![alt text](/images/Battle-Brothers/BB_comp.jpg)
 
 Understanding a brother’s attributes is key to developing and outfitting them. There are 16 total attributes, 8 of which the player has direct control over through level-ups with the rest being indirectly affected by the brother’s gear, perks, and other attributes. With each level-up, the brother receives the ability to increase 3 attributes a randomly rolled amount. The range of that random amount is determined by the attribute itself as well as the brother’s number of talent stars in that attribute. More talent stars mean a higher average roll. A brother’s background will set a base range for these 8 attributes, for instance a vagabond will most likely roll a low melee skill while a sellsword can roll very high melee skill. However, a vagabond could high roll melee skill and have talent stars in that attribute which at max-level will have them surpassing the sellsword in that attribute. This system makes it so that on average sellswords are going to make the better mercenary but that doesn’t mean you can’t come across an exceptional vagabond and benefit greatly from his lower wages.
 
@@ -105,7 +105,7 @@ Below are examples of fully progressed brothers that illustrate some of the prev
 
 |_The Adaptable Axeman_| _Famed Cleaver Whipman_ |
 |---|---|
-|![alt text](/images/BBsellsword.jpg)|![alt text](/images/BBfarmhand.jpg)|
+|![alt text](/images/Battle-Brothers/BB_sellsword.jpg)|![alt text](/images/Battle-Brothers/BB_farmhand.jpg)|
  
 The brothers’ specific traits are where they begin to diverge and become more unique. The sellsword has the dexterous trait giving him a bonus to melee skill. Without talent stars in this attribute, it would’ve been difficult for him to become this skilled otherwise. With a high melee skill of 98, I outfitted the sellsword with the highest single-swing damage weapon possible, a famed two-handed axe. This meant I could nearly guarantee massive damage to a single enemy target every turn. For added flexibility the sellsword carries a long axe on his back and has both the pathfinder and quick hands perks, meaning repositioning and switching weapons is often an option. This sellsword has been an unmitigated success; racking in 728 kills in 306 battles makes him one of the deadliest and prolific brothers I’ve built.
 
@@ -115,13 +115,13 @@ The farmhand has the iron lungs perk giving him extra stamina recovery per turn.
 
 #### Company Composition
 
-![alt text](/images/BBcompany.jpg)
+![alt text](/images/Battle-Brothers/BB_company.jpg)
 
 Once your company has 12 brothers typically all 12 will enter battle together. There are reserve ranks for rotating brothers in and out as needed whether its injury related or having to do with the matchup at hand. With the 12 brothers entering battle, there are 2 rows with nine slots to fill out in any formation you like and once in battle obviously this can be tweaked more. It is important to note the game does not really support formations that are more the 3 ranks deep on a mechanical level both in menu and with the weapons and positioning rules in battle. Therefore, most starting formations are something along the lines of 7 brothers in the front rank and 5 in the back rank (see Figure A. below). This is where what skillset your brothers have, what enemies you’re facing, and the battlefield conditions begin to matter for your formation.
 
 Let’s touch on general Battle Brothers tactics before discussing company composition and formation. As a rule of thumb, it is preferrable to deal concentrated damage to a few enemy targets as opposed to chip damage to many targets. Eliminating a target breaks enemy lines, gives the enemy less actions, and most importantly triggers a morale check on nearby enemies. For example, look at the progression from Figure B. to C., the concentrated damage output from 4-5 brothers in the first and second row make quick work of two enemy threats. This knowledge informs many of the decisions you will need to make with regards to composition and formation. Zone of control is another important concept that every brother equipped with a melee weapon exhibits on all adjacent tiles. This limits movement by providing the non-mover a free attack on the mover. Figure B. demonstrates this concept well showing the tank brothers on the top and bottom of the formation attract multiple enemy attacks. The move to position tanks on the outside of the formation and exactly one tile apart from the next closest brother is an intentional move to stop enemy flanking maneuvers and absorb as many enemy actions as possible. Zone of control gives the enemy a choice, either move into attack the tank and be stuck in their zone of control or take extra turns to flank further around my formation. Either outcome is positive as enemy actions are wasted.
 
-![alt text](/images/BBtactics.jpg)
+![alt text](/images/Battle-Brothers/BB_tactics.jpg)
 
 So, while the specific company composition on the battlefield any given skirmish varies drastically with the particular enemy and situation, the typical 20 mercenaries you have employed does follow certain trends. There are several inevitabilities in Battle Brothers one of them being face to face with hard-hitting enemies like orc warlords, barbarian chosen, brigand leaders, knights, unholds (trolls), direwolves, the list goes on. Another inevitability being that more often than not your men will be outnumbered 2:1. These realities mean you are looking for a brother that can not only hold up against enemy attacks but also dish it out and even the playing field. Damage has to be the answer because even the strongest tank will fatigue eventually, and enemies will begin to find holes in their defense. So, I always shoot for 10-12 brothers that fit this hearty, damage dealer mold. Now, there is a ton of variability within this mold as methods for dealing damage vary from large, man-splitting two-handed axes to small, backstabbing daggers. The same goes for damage mitigation, brothers will vary from large shield wielding mammoths to those who don light leather armor and weave in and out of danger.
 
@@ -137,7 +137,7 @@ I think we’ve tiptoed around the main course long enough, so let’s get into 
 
 #### A Brothers Relationship to the Battlefield
 
-![alt text](/images/BBbattlefield.jfif)
+![alt text](/images/Battle-Brothers/BB_battlefield.jpg)
 
 The AP system is standard and serves its purpose well. Each weapon has abilities that consume AP and one must weigh that against the damage, fatigue cost, and any special effects. As an example, a brother with high fatigue and the recover perk would be best equipped with a handaxe as opposed to a greataxe. The handaxe is lightweight and therefore costs only 4 AP to swing. With a total of 9 AP, this brother can swing twice per turn, the only downside being doubling up on the fatigue expended which is mitigated by the brothers’ attributes/perks. Perks and other pieces of equipment also provided these AP consuming abilities. Where the mechanic gets interesting is how it integrates into movement. AP cost for movement is tied in with terrain types. As an example, moving through a swamp or up a hill is not only fatigue intensive but also limits overall distance traveled due to increased AP cost per tile. This is important to note as terrain can severely impact battle strategies. When fighting on flat grass, a brother can usually move 2 tiles and then swing a one-handed weapon; however, this does not hold true in a swamp. Battles in swamps or on hills take on a different feel, they’re slower with brothers running out of stamina quicker and leaving you feeling exposed. Personally, I try avoiding swamp fights altogether but it’s not like I don’t want that terrain in the game. I like that there’s a diverse set of terrains, some scarier to fight on then others. It gives a true character to the landscape.
 
@@ -149,7 +149,7 @@ An important question to ask in any turn-based strategy game is how does the tur
 
 #### The Enemies
 
-![alt text](/images/BBenemy.jpg)
+![alt text](/images/Battle-Brothers/BB_enemy.jpg)
 
 As mentioned in the introduction to this section, Battle Brothers benefits greatly from the diversity of enemy combatants. The enemy design finds its strength in its variety. Wildly different tactics need to be employed based on what you see opposite you on the battlefield. A nimble fencer may go from being a goblin killing machine, nye untouchable as he darts around the flanks of the enemy, to a staggered pincushion with what might as well be a wooden sparring sword for a weapon when up against armored knights. Knowledge of the enemy is the most important skill you, the company’s captain, can bring to the table. So here’s a quick comment on each enemy in the game, this is simply what pops into my head, it may be right or wrong but it’s definitely what makes that enemy memorable.
 
@@ -194,7 +194,7 @@ The above factions are sprinkled in groups throughout the whole map, in camps an
 
 ### A Gorgeously Detailed Open World
 
-![alt text](/images/BBmapslice.jpg)
+![alt text](/images/Battle-Brothers/BB_map.jpg)
 
 The strategic world map is where all of your out-of-combat decision making for the company takes place. On the world map screen, you can pause and progress time, access the company screen to manage brothers, when in town enter the settlement buildings screen, interact with random events, and of course analyze and control the position of the company in the world. Unlike in battle, the world map is real-time with pause. Importance is drawn to this fact by having brothers consume food and wages daily. Therefore, poor decision making and time allocation on the world map can result in less return on investment and starving men. Only a few aspects of the game hinge on the real-time component, the most prominent being the escalation of enemy difficulty with time plus late game crises. Other odds and ends like random events or the odd contract may be time dependent, but these are not things you plan or strategize around. I outlined the primary drivers for my campaigns in the _What is the Point of a Mercenary Company Anyway?_ section earlier, but at an even more basic level, the player must feed and pay their men and then keep up with the ever-improving competition.
 
@@ -204,11 +204,11 @@ Turns out there’s more to the biomes than the pleasing, natural aesthetics. Bi
 
 Faction territories are even less clearly defined than biomes, I even kind of made up their existence just to illustrate the layout of Battle Brothers’ world. I’ve generalized the map into three loosely defined zones: the Noble Houses, the Southern City States, and the Wilds. I’ve made this distinction to describe the disparate feelings each area conveys while playing. Around the Noble Houses the company is almost always less than a day’s journey away from food, resources, and another contract. Noble army battalions and militia groups regularly patrol around settlements fending off incursions from opposition. The effect is that a safety net is always present. Forget to buy food, that’s okay stop at the next town, the men won’t starve that quickly. Come across a roaming band of orc berserkers in your path, lure them back to the militia camp you just passed, you get the point. While this region is not without challenge, the risk of compounding failures is less. The Southern City States and the Wilds I talk about in the next section on the expansions, but I’ll give a quick teaser of my thoughts here. The City States feel like a middle ground between the Noble Houses and the Wilds. While not completely without support, your company could spend multiple days on the road or in the desert without seeing civilization. The Wilds I just as it sounds, no signs of civilization just enemy camps and rare encounters for days and days. A word to the wise, be prepared. These made-up faction territories are not just defined by the occupying forces but also by the geographical feel. The Noble Houses are clusters of settlements in a variety of biomes ranging from grasslands to tundra. The City States are remote yet thriving trading posts in a sea of desert. The Wilds are a treacherous frontier of predominantly forests and mountains. One can almost imagine these areas as being an integrated in-game difficulty slider that the company can decide to toggle fluidly when desired.
 
-![alt text](/images/BBworld3.jpg)
+![alt text](/images/Battle-Brothers/BB_world.jpg)
 
 Dotted across the world map are locations for your company to interact with. Enemy camps and legendary locations are pretty straight-forward, interacting with the former engages you in combat while the latter usually puts you through an event-like text screen that can have multiple outcomes in some cases. The more dynamic and necessary location type are settlements. Settlements range from desolate huts in the tundras of the north to opulent cities in the deserts of the south. In each case the world map gives you several graphical hints at what you might find in any given settlement. We’ve already mentioned the biome being of significance but also, you’ll spot attached buildings in most cases and like biomes these buildings attract brothers of a matching skillset and matching wares can potentially be found at a good price. See the example below where this coastal city has a harbor, a couple fishing huts, an amber collector, an herbalist’s grove, and a watchtower. In this city I’d expect to have a good chance at hiring a fisherman or militia due to the fishing huts and watchtower, respectively. In the markets I’d almost certainly find amber and medical supplies thanks to the amber collector and herbalist’s grove, respectively. Again, Battle Brothers is connecting gameplay, art, and a dash real-world logic in an understated way, rewarding those with attention to detail. When you enter a settlement, a UI will popup enabling interaction with a couple buildings. Every settlement contains a marketplace and the town square has recruits for hire, outside of that the general trend is that larger settlements have more to offer. For instance, those desolate huts in the tundra will have a marketplace with a sparse selection of wares and maybe one or two men for hire, if you’re lucky they might have a taxidermist for crafting. Meanwhile that opulent city state will have a marketplace chalk-full of wares and a list of recruits you could build another whole company with. On top of that you’ll have the option of fighting in the arena, healing your men at a temple, buying top-notch gear at the weapon and armor smiths, and oh yeah they have a taxidermist too. The contrast between settlement types is so tangible visually with the aforementioned attached buildings and mechanically as it can drastically limit or open up your options.
 
-![alt text](/images/BBtown2.jpg)
+![alt text](/images/Battle-Brothers/BB_town.jpg)
 
 The art design of the strategic world map of Battle Brothers beautifully embraces both the large and small scale views of its world seamlessly. On a single screen the player can overview the entire continent surveying the surrounding landscape then drill down to view a specific settlement and all its detail. The art style works on both levels while communicating pertinent gameplay information to the player.
 
@@ -222,7 +222,7 @@ With each Battle Brothers expansion, the developers have taken the opportunity t
 
 #### Beasts and Exploration
 
-![alt text](/images/BBbeasts.jfif)
+![alt text](/images/Battle-Brothers/BB_beasts.jpg)
 
 Beasts and Exploration expands upon the realms outside the civilized world adding more variety and depth to the encounters found out in the wilderness. While roaming from town to town taking on contracts, there are certain comforts that make those interactions and outcomes more known and controllable. When in the lands of the noble houses there’s always a relative ease of access to resources, new recruits, and services (e.g., temples that heal injuries) meaning less consideration needs to be given each time the company sets out on the road. This contrasts with the planning that must be done when venturing into the wilderness. I appreciate this strategic variety that can be engaged with at the company’s discretion. If you decide to make an excursion into the wilds, you must be able to stockpile resources for the trip. For example, you must ensure you can feed and pay your mercenaries for the duration otherwise morale will drop. The health and numbers of brothers in your service must be considered as you don’t want to get ambushed with injured brothers in your frontlines. Lastly, to make the trip a profitable venture, it is best to minimize the number of items in your inventory, maximizing the amount of loot you can return with in tow. While this expansion didn’t necessarily create this gameplay option, it heavily incentivized it in a new way by adding unique encounters and loot that can be found in the wilds. Hidden legendary locations now dot the map offering interesting interactions and rewards while new beasts populate the land presenting new challenges in combat. While I still feel humanoid enemies are more fun and rewarding to battle, the addition of beast trophies and a fairly minimal crafting system help swing the balance a touch. Thematically, I love the crafting system. Killing a pack of direwolves will yield a few pelts and by taking said pelts to a taxidermist you can receive a direwolf mantle. So just after slaughtering these wolves you can then go to the brother who led the assault and mount the mantle on his back, increasing his armor durability and making him more fearsome in combat by debuffing adjacent opponents resolve. Battle Brothers does stuff like this really well, reinforcing decisions you make on the battlefield by carrying over the effects. In the next battle your one brother may stand tall with his direwolf mantle terrorizing the enemy, a reminder of the victory over that pack of direwolves. However, it is just as likely you have a brother on the other flank struggling to breath because in the same direwolf fight he was mauled, permanently losing his nose in the process. It was your tactical decision that put him in danger and now the results of that decision have trickled into the next battle.
 
@@ -233,7 +233,7 @@ Getting back to the expansion, I certainly think Beasts and Exploration is worth
 
 #### Warriors of the North
 
-![alt text](/images/BBwotn2.jpg)
+![alt text](/images/Battle-Brothers/BB_wotn.jpg)
 
 The Warriors of the North expansion features two fantastic additions to the core Battle Brothers experience. The first addition I’ve already touched on in the beginning of the Building a Mercenary Company section and that’s company origins. To quickly reiterate my thoughts, the addition of company origins was an excellent decision by the developers to incentivize multiple playthroughs. This was done by promoting different playstyles through campaign long buffs/debuffs and thematic starting brothers which possess differing skill sets and equipment. Before this you could make an effort to roleplay a particular type of company, but with origins being a peasant militia or a lone wolf feels very distinct. As the militia you’re forced into a ragtag group of exclusively low-born backgrounds, so a bunch of farmhands, daytalers, millers, etc. With the plus-side being you can field 16 on the battlefield at the same, up from the normal limit of 12. On the other end of the spectrum, there’s the lone wolf origin where you start with a single hedge knight armed with heavy armor and a greatsword. While this one brother is very strong and well geared, he’s vastly outnumbered on the battlefield. So, with a handful of other origins to select from, starting a campaign always feels fresh and immediately distinct from the last.
 
@@ -247,7 +247,7 @@ Warriors of the North is a worthy addition to the Battle Brothers base game. The
 
 #### Blazing Deserts
 
-![alt text](/images/BBdesert.jfif)
+![alt text](/images/Battle-Brothers/BB_desert.jpg)
 
 While the previous two expansions added to a few aspects of the base game, the Blazing Deserts expansion impacted nearly all aspects while also adding in a couple new gameplay mechanics. Blazing Deserts is undoubtedly the biggest Battle Brothers expansion so far and with its theme built around middle eastern culture it is clear the game world is expanding south.
 
