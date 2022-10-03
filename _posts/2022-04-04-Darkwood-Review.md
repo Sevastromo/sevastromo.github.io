@@ -4,7 +4,7 @@ tags: pc-game-review
 
 ## Darkwood
 
-![alt text](/images/DarkTitle.jpg)
+![alt text](/images/Darkwood/DW_titlecard.jpg)
 
 _Review Notes:_
 * _Mostly played on Mac OS with keyboard and touchpad while away from home due to the birth of my first child_  : )
@@ -17,7 +17,7 @@ As much as I love Resident Evil games, especially the classics, Darkwood better 
 
 Two game mechanics I want to highlight are the base management and day-night cycle. Darkwood's implementation of both mechanics has serious gameplay implications. In essence it combines the true terror of Dying Light's night-time volatile encounters with a high-level version of Project Zomboid’s home fortifications. At night, dangerous monsters are more aggressive and attack in greater numbers and on top of that otherworldly events can take place adding to the chaos. The game wisely suggests staying in your hideout at night, but more than that is required. The player must prepare for nightfall by barricading windows, doors, gaps in the walls, etc... and setup traps like bear traps and explosive barrels for when worst comes to worst. This base defense really adds to the physicality of the world, the more doors you board up and furniture you haul across windows the safer you feel, initially... But when one of your defenses eventually fails your safehouse suddenly feels like a tomb. I love how in the scramble for survival doors can accidentally get slammed shut, monsters or the player can get caught behind a piece of furniture, or the worst-case scenario you step on your own bear trap. While the fortification and barricading options are not very extensive, the base management and day-night cycle mechanics achieve some of the most tense, nail-biting gameplay sequences I've ever played.
 
-![alt text](/images/DarkNight2.jpg) 
+![alt text](/images/Darkwood/DW_night.jpg) 
 
 ---
 
@@ -25,14 +25,14 @@ Two game mechanics I want to highlight are the base management and day-night cyc
 
 Darkwood’s presentation is another one of its strong suits. The world is gloomy, bleak, and foreboding but the necessity to survive forces the player to strike out daily into the forest. When out in the forest, it can feel oppressive but with the gloom comes a beauty that I really appreciated. The environments are rendered with such detail that one feels driven to explore every corner. In Darkwood, nature is consuming the society that once lived there, buildings are in ruin as trees burst through floorboards and mushrooms inhabit dark corners, but also the residents are being altered. The design and art for all the characters you come across in Darkwood is stunning. They are represented by beautifully grotesque pieces of art that have been given slight touches of animation putting the player at bit of unease. Overall, Darkwood is visually unlike any other piece of media I have experienced.
 
-![alt text](/images/DarkChar.jpg)
+![alt text](/images/Darkwood/DW_character.jpg)
 
 ---
 ### Very Loose Handholding
 
 The story for the player character in Darkwood is pretty straight forward: find a way to leave the forest. The way the player progresses is through exploration of different zones, trying to find hints on what you need or where to go next. The direction given by the game is very loose, just the journal your player character occasionally jots in holds any information that can point you in a general direction. I love this loose handholding; it allows the player to get wrapped up in the survival horror and forget what the point is. Sometimes I would play a couple in-game days and then realize I had just been surviving and not making any attempt to progress the story. This is a testament to the difficulty, game mechanics, and atmosphere but these lapses also add to the horror element. When you realize you just spent a couple days barely getting by but are also in no way closer to finding your way out, it is a sobering feeling.
 
-![alt text](/images/DarkJourn.jpg)
+![alt text](/images/Darkwood/DW_journal.jpg)
 
 ---
 ### Verdict
