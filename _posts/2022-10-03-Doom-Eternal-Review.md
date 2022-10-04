@@ -4,14 +4,14 @@ tags: pc-game-review
 
 ## Doom Eternal
 
-![alt text](/images/DE_titlecard.jpg)
+![alt text](/images/Doom-Eternal/DE_titlecard.jpg)
 
 _Review Notes:_
 * _None_
 
 ---
 
-### header
+### A Strategy Game but at Breakneck Speed
 
 
 
