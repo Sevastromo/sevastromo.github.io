@@ -32,7 +32,7 @@ As a disclaimer, I think I am more interested in talking about games I like, det
 | ★★★★★  | 1 | [Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html) |
 | ★★★★1/2  | 3 | [Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html), [Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html), [S.T.A.L.K.E.R. Call of Pripyat](https://sevastromo.github.io/2022/03/24/Stalker-COP-Review.html) | 
 | ★★★★ | 1 | [Darkwood](https://sevastromo.github.io/2022/04/04/Darkwood-Review.html) | 
-| ★★★1/2 | 1 | [Inside](https://sevastromo.github.io/2022/09/19/Inside.html) | 
+| ★★★1/2 | 1 | [Inside](https://sevastromo.github.io/2022/09/19/Inside-Review.html) | 
 | ★★★ | 0 | |
 | ★★1/2 | 0 | |
 | ★★ | 0 | |
