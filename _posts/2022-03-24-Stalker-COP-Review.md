@@ -4,7 +4,7 @@ tags: pc-game-review
 
 ## S.T.A.L.K.E.R. Call of Pripyat
 
-![alt text](/images/titlecardCOP2.jpg)
+![alt text](/images/Stalker-COP/COP_titlecard.jpg)
 
 _Review Notes:_
 
@@ -24,8 +24,8 @@ Fast-forward a couple years and I had fallen in love with a couple other big nam
 
 I decided to try out Call of Pripyat again, hoping to be drawn in again. But upon starting a new game, I was immediately distracted by the gun and hand models/animations. Coming from EFT and Metro, this is where COP felt severely dated. It’s definitely an unfair comparison but the whiplash felt by going from the near-realistic look of gun models in EFT to the dated textures of the starter AK in COP was rough. This is when I found Gunslinger mod, an overhaul to the entire first-person perspective. This mod was exactly what I was looking for. Gun models and animations are near EFT in quality, but that’s not where it stopped. The upgrade trees for each weapon now had matching visual upgrades, the PDA is now a 3D model, all food and medications are animated, and a bunch of other hand animations are added for suit related actions, the exoskeleton being a particular highlight. This mod alone elevates COP to nearly a 2020 level of visual fidelity and style.
 
-![alt text](/images/COPgun.jfif)
-![alt text](/images/COPexopda.jpg)
+![alt text](/images/Stalker-COP/COP_gun.jpg)
+![alt text](/images/Stalker-COP/COP_exopda.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ I decided to try out Call of Pripyat again, hoping to be drawn in again. But upo
 
 So, with that hurdle overcome, I set out to play COP in full. COP builds upon much of what its predecessors accomplished but differs in one big way. Where SOC had small, interconnected areas that you would pass in and out of quite frequently, COP has 3, large areas that you travel between infrequently. After experiencing both, I prefer the later. Exploring freely in these areas is a huge part of the game and by far my favorite aspect. Gunslinger’s hardest difficulty turns off the HUD by default so the only map you have is in your PDA. This is a great decision, as traversing the zone feels unfamiliar at first. But as you grow used to landmarks and memorable locations of the area you start having to check your PDA less and feel more comfortable with navigating yourself. The Zaton and Yanov areas both feel expansive yet dense with points of interest, while Pripyat is a fully explorable city. All of this feels like to Metro Exodus’s world design, so it was very cool to see what that game clearly drew inspiration from. Metro Exodus was designed around a train moving from area to area and when it stopped, acting as a sort of hub. In these areas you had a goal but how you went about it was up to the player. You could beeline it for what you suspect to be the path forward but along the way you were most likely going to get distracted.  For me, the main draw of Metro and COP is the diversions and the time spent simply traversing the zone/metro. It’s freeform, you can come and go as you please, working with who you want when you want and critically in Metro/COP there’s no mission marker telling you to go somewhere. However, when you spot a tall waste processing plant in the distance with your binoculars and can see mercs patrolling the balconies, what stalker wouldn’t want to change course and investigate. I love how the these games enable the player to make their own decisions and goals by having world and gameplay design that incentivizes player curiosity.
 
-![alt text](/images/COPwaste.jpg)
+![alt text](/images/Stalker-COP/COP_waste.jpg)
 
 ---
 
