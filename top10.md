@@ -11,7 +11,7 @@ description: top 10s
 3. **Faster Than Light** (1 ↓)
 5. **Dark Souls: Prepare to Die Edition**
 6. **[Resident Evil 2 Remake](https://sevastromo.github.io/2022/03/21/Resident-Evil-2-Remake-Review.html)**
-7. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html)**
+7. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review.html)**
 8. **Resident Evil Remake**
 9. **Hitman: World of Assassination** (NR)
 10. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** (1 ↓)
@@ -86,7 +86,7 @@ Completion Date | Game | Type
 ![alt text](/images/top10/top10_2020_V2.jpg)
 
 1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
-2. **[Battle Brothers: Blazing Deserts](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html#blazing-deserts)** - I've already said enough
+2. **[Battle Brothers: Blazing Deserts](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review.html#blazing-deserts)** - I've already said enough
 3. **Hades** - a fun, story-driven roguelike. The greek mythology is really well done with the gods all being memorable. Everything about the game is an 8/10.
 4. **Metro Exodus** - this game has grown on me a lot, but maybe its just because I'm remembering the open world sections and not everything else. It also keeps good company in my thoughts, along side the likes of Tarkvo and Stalker.
 5. **Slay the Spire: The Watcher** - Unfortunately the most boring character out of the bunch. Fortunately, Slay the Spire is spectacular so their worst is others best.
@@ -104,7 +104,7 @@ Completion Date | Game | Type
 
 1. **The Binding of Isaac: Rebirth** - This game sucked me in whole. The meta-progression is my jam. Unlocking new characters and items by taking on various challenges is addicting. I'm not usually one for top-down bullet hell games but this game clicked with me in 2019.
 2. **Rimworld** - My pound for pound #1 comes in 2nd to The Binding of Isaac??? Similar to Battle Brothers, Rimworld has grown on me, signficantly. I think games with the much depth can be intimidating and hard to understand the first time around. I think I only played Rimworld 25ish hrs in 2019. That has since changed.
-3. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review-V2.html)** - I have said enough.
+3. **[Battle Brothers](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review.html)** - I have said enough.
 4. **Risk of Rain** - awesome soundtrack, simple bought fun gameplay.
 5. **Return of the Obra Dinn** - again an awesome and very unique soundtrack, along with an art style I haven't seen before. Has it been long enough to where I have forgotten the solutions to this games' many questions?
 6. **Prey** - Have you ever wanted to explore a fully realized, alt-history space station? Well Prey accomplishes that by having visually and functionally distinct sectors of the station, having each human onboard be accounted for and discoverable in-game, and giving the player many tools and applications to interact with the station and its systems.
