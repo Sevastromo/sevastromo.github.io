@@ -21,7 +21,8 @@ description: top 10s
 (Rev. 9/1/22)
 
 <!---
-2022
+\
+![alt text](/images/top10/top10_2022.jpg)
 
 **Doom Eternal**
 **Hitman 3**
@@ -30,7 +31,7 @@ description: top 10s
 **Metro Exodus Enhanced Edition**
 **Dusk**
 **Quake Enhanced Edition**
-**Inside**
+**[Inside](https://sevastromo.github.io/2022/03/03/Inside-Review.html)**
 **Dead Space 2**
 **Vampire Survivors**
 **Inscryption**
@@ -38,6 +39,7 @@ description: top 10s
 **Dying Light**
 **Metro 2033 Redux**
 **Hitman: Blood Money**
+**Stalker: Anomaly**
 
 --->
 
