@@ -38,6 +38,8 @@ Laced into the solutions I presented earlier was a bunch of references to the Sl
 
 ![alt text](/images/Doom-Eternal/DE_glory.jpg)
 
+One thing of note that tripped me up in my first playthrough was equipment progression. It might be due to other games I've played recently, but I wasn't expecting to be able to upgrade literally everything fully in one playthrough, well before the end of the game. Eternal is a full-on power trip, albeit with stiff opposition, so maybe this is the point and the developers wanted you to have a fully upgraded arsenal at the end of the day.
+
 ---
 
 ### Verdict
