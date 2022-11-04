@@ -88,7 +88,7 @@ Completion Date | Game | Type
 1. **Escape From Tarkov** - the best multiplayer/co-op experience I've ever had. An FPS thats verges on horror. Gun mechanics and handling that I wish were replicated in every realistic shooter I play.
 2. **[Battle Brothers: Blazing Deserts](https://sevastromo.github.io/2022/08/03/Battle-Brothers-Review.html#blazing-deserts)** - I've already said enough
 3. **Hades** - a fun, story-driven roguelike. The greek mythology is really well done with the gods all being memorable. Everything about the game is an 8/10.
-4. **Metro Exodus** - this game has grown on me a lot, but maybe its just because I'm remembering the open world sections and not everything else. It also keeps good company in my thoughts, along side the likes of Tarkvo and Stalker.
+4. **Metro Exodus** - this game has grown on me a lot, but maybe its just because I'm remembering the open world sections and not everything else. It also keeps good company in my thoughts, along side the likes of Tarkov and Stalker.
 5. **Slay the Spire: The Watcher** - Unfortunately the most boring character out of the bunch. Fortunately, Slay the Spire is spectacular so their worst is others best.
 6. **Halo Master Chief Collection** - a fantastic bundle of the scattered memories I have of the Halo franchise, ranging from multiplayer maps I binged to death with my brothers, campaigns I played through with old friends, and stuff I missed from odd entries long ago.
 7. **Monster Train** banger soundtrack, fun gameplay, blegh visuals.
