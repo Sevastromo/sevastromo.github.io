@@ -16,7 +16,7 @@ description: top 10s
 9. **Hitman: World of Assassination** (NR)
 10. **[Project Zomboid](https://sevastromo.github.io/2022/03/03/Project-Zomboid-Review.html)** (1 ↓)
 
-**Honorable Mentions**: The Witcher 3: Wild Hunt, The Binding of Isaac: Rebirth, Spelunky, Doom Eternal, Star Wars Battlefront 2, Half-life 2, Half-Life, Portal 2, Portal, S.T.A.L.K.E.R. Call of Pripyat, Metal Gear Solid V: Phantom Pain, Halo Master Chief Collection, Into the Breach, Amnesia: The Dark Descent, Elden Ring
+**Honorable Mentions**: The Witcher 3: Wild Hunt, The Binding of Isaac: Rebirth, Spelunky, [Doom Eternal](https://sevastromo.github.io/2022/10/28/Doom-Eternal-Review.html), Star Wars Battlefront 2, Half-life 2, Half-Life, Portal 2, Portal, [S.T.A.L.K.E.R. Call of Pripyat](https://sevastromo.github.io/2022/03/24/Stalker-COP-Review.html), Metal Gear Solid V: Phantom Pain, Halo Master Chief Collection, Into the Breach, Amnesia: The Dark Descent, Elden Ring
 
 (Rev. 9/1/22)
 
@@ -24,24 +24,22 @@ description: top 10s
 \
 ![alt text](/images/top10/top10_2022.jpg)
 
-**Doom Eternal**
-**Hitman 3**
-**Into the Breach Advanced Edition**
-**Elden Ring**
-**Metro Exodus Enhanced Edition**
-**Dusk**
-**Quake Enhanced Edition**
-**[Inside](https://sevastromo.github.io/2022/03/03/Inside-Review.html)**
-**Dead Space 2**
-**Vampire Survivors**
-**Inscryption**
-**Doom (1993)**
-**Dying Light**
-**Metro 2033 Redux**
-**Hitman: Blood Money**
-**Stalker: Anomaly**
+1. **[Doom Eternal](https://sevastromo.github.io/2022/10/28/Doom-Eternal-Review.html)**
+2. **Stalker: Anomaly**
+3. **Hitman 3**
+4. **Elden Ring**
+5. **Metro Exodus Enhanced Edition**
+6. **Dusk**
+7. **Into the Breach Advanced Edition**
+8. **[Inside](https://sevastromo.github.io/2022/03/03/Inside-Review.html)**
+9. **Quake Enhanced Edition**
+10. **Vampire Survivors**
+
+Read the full blog post [HERE]()
 
 --->
+
+↓↓↓ Ranking Archives ↓↓↓
 
 ---
 \
