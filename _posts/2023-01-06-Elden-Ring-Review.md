@@ -37,6 +37,8 @@ One of my favorite things about Dark Souls was its story and lore. It layered on
 
 I would have loved to see the hub area as a physical place on the map. I would have liked to see graces not ubiquitously used a fast travel points. The addition of a mount was fantastic and makes traversing the open world a breeze. So, while I think fast travel is necessary with a map this size, I think fast travel points could have been restricted. For instance, let’s say Roundtable Hold was in Limgrave, the starting area. Now imagine exploring that area and instead of fast traveling on a whim to the nebulous Roundtable, you plan excursions out of the Roundtable and then return when ready on horseback. Locations like Volcano Manor, The Shaded Castle, Raya Lucaria Academy, and Stormveil Castle all standout to me not only for the experiences within them but for their physical presence on the surrounding areas. Raya Lucaria looms in the skyline the entire time you explore Liurnia of the Lakes and I love that. I think that’s the bottom line, I wish Roundtable Hold had that kind of presence on the map. Then maybe each of the areas could have a satellite “Roundtable Hold” that once discovered would allow fast travel back to the primary Roundtable. This would mean you’d have to venture out on limb into an unknown area until you found respite. But maybe this is me being nostalgic what Dark Souls brought to the table. In Dark Souls, when you left Firelink Shrine you were never sure how soon you would return.
 
+![alt text](/images/Elden-Ring/ER_Raya.jpg)
+
 ---
 
 ### Triumphs
@@ -52,6 +54,8 @@ From Software has always had indulgent enemy design particularly in the boss dep
 #### _Color Palette_
 
 Ever play a game with a distinct color palette? Where a single-color tone harkens you back to that game world? This can be a strength of the game where it’s creators really honed in on a game’s atmosphere and what feelings it wants to convey. The Resident Evil Remaster comes to mind. Most environments carry this muted beige or grey tone to the point where it’s a bit oppressive. It works for a game that wants you to slow down and dread turning down the next hallway. However, other games can come of as simply banal, making the visual experience rather regrettable. Fear not, because Elden Ring is by far one of the most visually diverse games I have ever witnessed. The breadth of color palettes on display throughout the Lands Between is THE reward for exploration. All the previous issues I vented about like finding crafting items or your 15th different warhammer are mitigated somewhat by the truly inspired visual design of these environments. The posted screenshots do the game better justice than my words ever can.
+
+![alt text](/images/Elden-Ring/ER_collage.jpg)
 
 ---
 
