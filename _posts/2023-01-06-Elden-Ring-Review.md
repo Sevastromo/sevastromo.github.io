@@ -51,6 +51,8 @@ Elden Ring embraces both open world and classic souls level design. In the Lands
 
 From Software has always had indulgent enemy design particularly in the boss department, but Elden takes the cake. Do you want team-up on a larger-than-life demigod/meteor riding a decrepit steed smaller than your own? What about a fire giant that removes its own leg to awaken its third eye located in its chest? and oh yeah it wields a pot lid… What about a chieftain who wears a live lion on his back? Or a moose that flies? Or a dragon? There’s a few of those and that’s about as normal as it gets.
 
+![alt text](/images/Elden-Ring/ER_giant.jpg)
+
 #### _Color Palette_
 
 Ever play a game with a distinct color palette? Where a single-color tone harkens you back to that game world? This can be a strength of the game where it’s creators really honed in on a game’s atmosphere and what feelings it wants to convey. The Resident Evil Remaster comes to mind. Most environments carry this muted beige or grey tone to the point where it’s a bit oppressive. It works for a game that wants you to slow down and dread turning down the next hallway. However, other games can come of as simply banal, making the visual experience rather regrettable. Fear not, because Elden Ring is by far one of the most visually diverse games I have ever witnessed. The breadth of color palettes on display throughout the Lands Between is THE reward for exploration. All the previous issues I vented about like finding crafting items or your 15th different warhammer are mitigated somewhat by the truly inspired visual design of these environments. The posted screenshots do the game better justice than my words ever can.
