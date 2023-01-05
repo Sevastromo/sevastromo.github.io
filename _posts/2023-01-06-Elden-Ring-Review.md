@@ -27,7 +27,7 @@ From Software correctly added a beautiful hand-drawn style world map to the game
 
 #### _Was I supposed to respect multiple times during one playthrough?_
 
-I ask this because my dex/int character was a lot of fun for 60 hours and then combat began to drag more and more. Meanwhile my inventory is chalk full of crazy great hammers, bizarre dragon sorceries, and who knows what’s in the next dungeon. The game feels too big to playthrough with a single character or a single build and not get bored. I realize this now, but in the moment, I wanted to beat the game with my character, my build, those are synonymous to me, at least they have been in previous Souls playthroughs.
+I ask this because my dexterity/intelligence character was a lot of fun for 60 hours and then combat began to drag more and more. Meanwhile my inventory was chalk full of crazy great hammers, bizarre dragon sorceries, and who knows what’s in the next dungeon. The game feels too big to playthrough with a single character or a single build and not get bored. I realize this now, but in the moment, I wanted to beat the game with my character, my build, those are synonymous to me, at least they have been in previous Souls playthroughs. This might be a “me” problem and I may have been too stubborn. I could’ve respected my character to a strength/faith build and had been slamming great hammers and casting dragon flame incantations for the last 60 hours of my playthrough, but I didn’t. I kept thinking to myself that this cool weapon or spell I just picked up would be fun to build around on a next playthrough. But like I already said, after beating the final boss I rather quickly uninstalled the game and didn’t think much of it in the following months. Just now, writing this review, thoughts of diving back into Elden Ring have crept into my head and I might do it and I hope this embarrassment of riches reaps its rewards then.
 
 #### _I can’t remember a lick of the story…_
 
@@ -43,15 +43,19 @@ I would have loved to see the hub area as a physical place on the map. I would h
 
 ### Triumphs
 
-#### _Not totally abandoning classic souls level design_
+#### _Combat is extremely diverse, until it isn’t_
 
-Elden Ring embraces both open world and classic souls level design. In the Lands Between, you can travel via horseback over gorgeous landscapes to arrive at the foot of a castle. Get off your mount, enter the castle walls, and now you’re in tightly woven, overlapping, dungeon corridors reminiscent of Seath’s Fortress or Anor Londo. It’s a beautiful contrast as the expansive open world areas act as a palate cleanser to restrictive dungeons and vice versa.
+Previous From Software games honed in on different aspects of “souls” combat. I’d say Demon and Dark Souls really established the combat as a slow-paced, punishing yet fair system. Dark Souls 2 really expanded the arsenal, adding loads of new weapons and spells. Bloodbourne, I haven’t played, but from what I can tell did away with shields and focused on faster paced combat by incentivizing counterattacking when hurt. Dark Souls 3 brought rolling to the forefront I think by lowering the stamina cost. Combat had adopted some of the fast-paced nature of Bloodbourne and continued to grow the arsenal size from Dark Souls 2. Sekiro dialed in on the parry mechanic and added a “posture” bar in what was the largest departure from the original Dark Souls formula. And then we come to Elden Ring… and to start, I think Dark Souls 3 is clearly the closest relative in the Souls combat system family. Movement feels snappy and responsive, but actions still have weight as there’s no animation cancelling. Rolling can still be a strong defensive option, but enemies seem to have been designed to counter this tactic more effectively. The array of weapon options has again been expanded. I’d say for a given weapon type, there’s 10-15 unique weapons… and there’s probably about 15 weapon types! The number of unique weapons is astounding to a fault honestly. It feels wrong to only complain about this (see section Was I supposed to respect multiple times during one playthrough?)… so here’s the compliment.  Between weapons, talismans, weapon skills, spells, spirit ashes, armor, armor traits, shields, ashes of war, equipment upgrades, player character stats, and consumable items the variety of build options and the ways you can engage in combat are immense. Add on top of that the variety of enemies, bosses, and locations, and the combat system and its supporting structures come out to be something truly monumental.
 
 #### _Enemy design is absolutely extravagant_
 
 From Software has always had indulgent enemy design particularly in the boss department, but Elden takes the cake. Do you want team-up on a larger-than-life demigod/meteor riding a decrepit steed smaller than your own? What about a fire giant that removes its own leg to awaken its third eye located in its chest? and oh yeah it wields a pot lid… What about a chieftain who wears a live lion on his back? Or a moose that flies? Or a dragon? There’s a few of those and that’s about as normal as it gets.
 
 ![alt text](/images/Elden-Ring/ER_giant.jpg)
+
+#### _Not totally abandoning classic souls level design_
+
+Elden Ring embraces both open world and classic souls level design. In the Lands Between, you can travel via horseback over gorgeous landscapes to arrive at the foot of a castle. Get off your mount, enter the castle walls, and now you’re in tightly woven, overlapping, dungeon corridors reminiscent of Seath’s Fortress or Anor Londo. It’s a beautiful contrast as the expansive open world areas act as a palate cleanser to restrictive dungeons and vice versa.
 
 #### _Color Palette_
 
