@@ -35,7 +35,7 @@ description: top 10s
 9. **Quake Enhanced Edition**
 10. **Vampire Survivors**
 
-Read the full blog post [HERE](https://sevastromo.github.io/2022/12/01/2022-Annual-Recap.html)
+Read the full blog post **[HERE](https://sevastromo.github.io/2022/12/01/2022-Annual-Recap.html)**
 
 ### ↓↓↓ Ranking Archives ↓↓↓
 
