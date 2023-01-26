@@ -20,9 +20,6 @@ github_username: "sevastromo"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-  
-minima:  
-  skin: solarized
 
 show_excerpts: true
 
@@ -39,6 +36,9 @@ google_analytics: G-45R5LED7EQ
 titles_from_headings:
   strip_title: true
   collections: true
+
+minima:  
+  skin: solarized
   
 header_pages:
   - about.md
