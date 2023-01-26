@@ -20,6 +20,9 @@ github_username: "sevastromo"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+  
+minima:  
+  skin: solarized
 
 show_excerpts: true
 
