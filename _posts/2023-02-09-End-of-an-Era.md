@@ -1,5 +1,5 @@
 ---
-tags: anouncement
+tags:
 ---
 
 ## End of an Era
