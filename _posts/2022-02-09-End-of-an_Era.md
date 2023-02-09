@@ -1,1 +1,9 @@
-I'm moving to substack: https://sevastromo.substack.com/
+---
+tags: anouncement
+---
+
+## End of an Era
+
+I'm moving to substack
+
+[LINK](https://sevastromo.substack.com/)
